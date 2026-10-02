@@ -1,6 +1,6 @@
 import { defineConfig } from 'astro/config';
 import tailwind from "@astrojs/tailwind";
-import vercel from "@astrojs/vercel/serverless";
+import cloudflare from "@astrojs/cloudflare";
 import react from "@astrojs/react";
 import wasm from "vite-plugin-wasm";
 
@@ -59,9 +59,5 @@ export default defineConfig({
   vite: {
     plugins: [wasm()]
   },
-  adapter: vercel({
-    webAnalytics: {
-      enabled: true
-    }
-  })
+  adapter: cloudflare()
 });
