@@ -426,8 +426,8 @@ function OfficeThumbnailRail({ thumbnails, current, unit, onSelect, isFullscreen
                         key={index}
                         type="button"
                         className={cn(
-                            'rounded-sm border bg-white p-1 text-center text-xs text-slate-600 hover:border-blue-300',
-                            current === index + 1 ? 'border-blue-500 ring-1 ring-blue-500' : 'border-slate-200'
+                            'rounded-sm border bg-white p-1 text-center text-xs text-slate-600 hover:border-indigo-300',
+                            current === index + 1 ? 'border-indigo-500 ring-1 ring-blue-500' : 'border-slate-200'
                         )}
                         onClick={() => onSelect(index + 1)}
                     >
@@ -786,7 +786,7 @@ function ArchiveBrowser({ archive, copy, onSelect, selectedPath }) {
             <button
                 key={node.path}
                 type="button"
-                className={cn('flex w-full items-center gap-2 rounded-md px-2 py-1.5 text-left text-sm hover:bg-slate-100', selectedPath === node.path && 'bg-blue-50 text-blue-700')}
+                className={cn('flex w-full items-center gap-2 rounded-md px-2 py-1.5 text-left text-sm hover:bg-slate-100', selectedPath === node.path && 'bg-indigo-50 text-indigo-700')}
                 style={{ paddingLeft: `${8 + depth * 24}px` }}
                 onClick={() => onSelect(node.entry, node.path)}
             >
@@ -958,7 +958,7 @@ export default function ViewerTool({ copy = {} }) {
                 )}>
                     <div className="mb-4 flex flex-col gap-3 md:flex-row md:items-center md:justify-between">
                         <div className="flex min-w-0 items-center gap-3">
-                            <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-md bg-blue-50 text-blue-600">
+                            <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-md bg-indigo-50 text-indigo-600">
                                 <Icon name={getFileIcon(kind)} size={22} />
                             </div>
                             <div className="min-w-0">

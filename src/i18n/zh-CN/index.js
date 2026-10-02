@@ -11,11 +11,11 @@ import convert from './convert';
 import viewer from './viewer';
 
 export default {
-    title: '在线截图、图片编辑与格式转换工具 | ShotEasy',
+    title: '视频转 GIF 在线工具 - 动图坊 | 免费 MP4 转 GIF',
     description:
-        '免费在线截图和编辑照片，直接在浏览器中截图和调整图像大小并为任何照片添加滤镜。将图像转换为各种格式，如 jpg、png、jpeg 或 webp。截取特定区域或滚动截取整个页面。',
+        '动图坊 - 免费的在线视频转 GIF 工具。支持 MP4、WebM、MOV 等视频一键转 GIF 动图，本地处理、无需上传、无需注册，保护你的隐私。',
     keywords:
-        'ShotEasy,截图,长页面,编辑照片,照片转换器,图像转换器,在线编辑器,在线更改图像格式,将图像转换为jpg,jpg转webp,jpg转png',
+        '视频转GIF,MP4转GIF,在线GIF制作,GIF maker,video to gif,动图制作,动图坊',
     privacy: '隐私',
     terms: '条款',
     blog: '博客',

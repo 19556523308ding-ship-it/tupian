@@ -13,7 +13,7 @@ export const Toolbar = ({disabled, tool, toSelect, isFull, onFullChange, annotat
                     type="text"
                     shape="circle"
                     disabled={disabled}
-                    className={tool === 'rect' && 'text-[#1677ff] bg-sky-100/50 hover:bg-sky-100 hover:text-[#1677ff]'}
+                    className={tool === 'rect' && 'text-[#1677ff] bg-violet-100/50 hover:bg-violet-100 hover:text-[#1677ff]'}
                     icon={<Icon name="Square" />}
                     onClick={() => toSelect('rect')}
                 ></Button>
@@ -21,7 +21,7 @@ export const Toolbar = ({disabled, tool, toSelect, isFull, onFullChange, annotat
                     type="text"
                     shape="circle"
                     disabled={disabled}
-                    className={tool === 'filledRect' && 'text-[#1677ff] bg-sky-100/50 hover:bg-sky-100 hover:text-[#1677ff]'}
+                    className={tool === 'filledRect' && 'text-[#1677ff] bg-violet-100/50 hover:bg-violet-100 hover:text-[#1677ff]'}
                     icon={<span className="anticon align-[-1px]"><Icons.filledRect className="text-sm" /></span>}
                     onClick={() => toSelect('filledRect')}
                 ></Button>
@@ -29,7 +29,7 @@ export const Toolbar = ({disabled, tool, toSelect, isFull, onFullChange, annotat
                     type="text"
                     shape="circle"
                     disabled={disabled}
-                    className={tool === 'circle' && 'text-[#1677ff] bg-sky-100/50 hover:bg-sky-100 hover:text-[#1677ff]'}
+                    className={tool === 'circle' && 'text-[#1677ff] bg-violet-100/50 hover:bg-violet-100 hover:text-[#1677ff]'}
                     icon={<Icon name="Circle" />}
                     onClick={() => toSelect('circle')}
                 ></Button>
@@ -37,7 +37,7 @@ export const Toolbar = ({disabled, tool, toSelect, isFull, onFullChange, annotat
                     type="text"
                     shape="circle"
                     disabled={disabled}
-                    className={tool === 'line' && 'text-[#1677ff] bg-sky-100/50 hover:bg-sky-100 hover:text-[#1677ff]'}
+                    className={tool === 'line' && 'text-[#1677ff] bg-violet-100/50 hover:bg-violet-100 hover:text-[#1677ff]'}
                     icon={<span className="anticon align-[-1px]"><Icons.line className="text-sm" /></span>}
                     onClick={() => toSelect('line')}
                 ></Button>
@@ -45,7 +45,7 @@ export const Toolbar = ({disabled, tool, toSelect, isFull, onFullChange, annotat
                     type="text"
                     shape="circle"
                     disabled={disabled}
-                    className={tool === 'arrow' && 'text-[#1677ff] bg-sky-100/50 hover:bg-sky-100 hover:text-[#1677ff]'}
+                    className={tool === 'arrow' && 'text-[#1677ff] bg-violet-100/50 hover:bg-violet-100 hover:text-[#1677ff]'}
                     icon={<Icon name="MoveDownLeft" />}
                     onClick={() => toSelect('arrow')}
                 ></Button>
@@ -53,7 +53,7 @@ export const Toolbar = ({disabled, tool, toSelect, isFull, onFullChange, annotat
                     type="text"
                     shape="circle"
                     disabled={disabled}
-                    className={tool === 'pencil' && 'text-[#1677ff] bg-sky-100/50 hover:bg-sky-100 hover:text-[#1677ff]'}
+                    className={tool === 'pencil' && 'text-[#1677ff] bg-violet-100/50 hover:bg-violet-100 hover:text-[#1677ff]'}
                     icon={<Icon name="Pencil" />}
                     onClick={() => toSelect('pencil')}
                 ></Button>

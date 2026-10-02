@@ -74,7 +74,7 @@ export default observer(() => {
             <div className="flex gap-2 items-center">
                 <label className="font-semibold">Quality:</label>
                 <Slider className="flex-1 w-52" defaultValue={quality} value={quality} min={0} max={100} step={1} onChange={onQualityChange} />
-                <span className="w-12 text-blue-500">{showTip(quality)}</span>
+                <span className="w-12 text-indigo-500">{showTip(quality)}</span>
             </div>
             <div className="flex gap-2 items-center">
                 <label className="font-semibold">Convert:</label>

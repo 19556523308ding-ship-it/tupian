@@ -713,7 +713,7 @@ export default function VideoConvert({ copy = {} }) {
                     </label>
                     <div className="grid grid-cols-4 gap-2">
                         {[0.5, 1, 1.5, 2].map((item) => (
-                            <button key={item} type="button" className="rounded-md border border-slate-200 bg-slate-50 py-2 text-xs font-bold text-slate-600 hover:border-blue-300 hover:bg-blue-50" onClick={() => setSpeed((value) => ({ ...value, multiplier: item }))}>{item}x</button>
+                            <button key={item} type="button" className="rounded-md border border-slate-200 bg-slate-50 py-2 text-xs font-bold text-slate-600 hover:border-indigo-300 hover:bg-indigo-50" onClick={() => setSpeed((value) => ({ ...value, multiplier: item }))}>{item}x</button>
                         ))}
                     </div>
                 </div>
@@ -884,7 +884,7 @@ export default function VideoConvert({ copy = {} }) {
                         {RAW_EXAMPLES.map((example) => (
                             <button
                                 key={example.label}
-                                className="rounded-md border border-slate-200 bg-slate-50 px-3 py-2 text-left text-xs text-slate-600 hover:border-blue-300 hover:bg-blue-50"
+                                className="rounded-md border border-slate-200 bg-slate-50 px-3 py-2 text-left text-xs text-slate-600 hover:border-indigo-300 hover:bg-indigo-50"
                                 type="button"
                                 onClick={() => setRaw((value) => ({ ...value, args: example.args, ext: example.ext }))}
                             >
@@ -927,7 +927,7 @@ export default function VideoConvert({ copy = {} }) {
                             </div>
                             {(status === 'loading' || status === 'processing') && (
                                 <div className="mt-2 h-1 overflow-hidden rounded-full bg-slate-100">
-                                    <div className="h-full rounded-full bg-blue-500 transition-all" style={{ width: `${progress}%` }} />
+                                    <div className="h-full rounded-full bg-indigo-500 transition-all" style={{ width: `${progress}%` }} />
                                 </div>
                             )}
                         </div>
@@ -935,7 +935,7 @@ export default function VideoConvert({ copy = {} }) {
                             type="button"
                             disabled={status === 'loading' || status === 'processing' || ffmpegLoaded}
                             onClick={preloadFFmpeg}
-                            className="inline-flex h-7 shrink-0 items-center justify-center gap-1.5 rounded-md bg-blue-600 px-2.5 text-xs font-bold text-white transition hover:bg-blue-500 disabled:cursor-not-allowed disabled:bg-slate-100 disabled:text-slate-400"
+                            className="inline-flex h-7 shrink-0 items-center justify-center gap-1.5 rounded-md bg-indigo-600 px-2.5 text-xs font-bold text-white transition hover:bg-indigo-500 disabled:cursor-not-allowed disabled:bg-slate-100 disabled:text-slate-400"
                         >
                             <Icon name={status === 'loading' ? 'Loader2' : ffmpegLoaded ? 'CheckCircle2' : 'Play'} size={13} className={status === 'loading' ? 'animate-spin' : ''} />
                             {ffmpegStatus.button}
@@ -943,7 +943,7 @@ export default function VideoConvert({ copy = {} }) {
                     </div>
 
                     <div
-                        className={`rounded-md border ${file ? 'border-slate-200 bg-slate-950 p-3' : 'cursor-pointer border-dashed border-blue-200 bg-sky-50/70 p-6 text-center transition hover:border-blue-400 hover:bg-sky-50'}`}
+                        className={`rounded-md border ${file ? 'border-slate-200 bg-slate-950 p-3' : 'cursor-pointer border-dashed border-indigo-200 bg-indigo-50/70 p-6 text-center transition hover:border-indigo-400 hover:bg-indigo-50'}`}
                         onClick={() => {
                             if (!file) fileInputRef.current?.click();
                         }}
@@ -976,7 +976,7 @@ export default function VideoConvert({ copy = {} }) {
                             </div>
                         ) : (
                             <div className="flex min-h-[320px] flex-col items-center justify-center">
-                                <Icon name="UploadCloud" size={34} className="mb-2 inline-flex text-blue-600" />
+                                <Icon name="UploadCloud" size={34} className="mb-2 inline-flex text-indigo-600" />
                                 <p className="text-sm font-bold text-slate-700">{t.upload}</p>
                                 <p className="mt-1 text-xs text-slate-400">{t.uploadHint}</p>
                             </div>
@@ -1028,14 +1028,14 @@ export default function VideoConvert({ copy = {} }) {
                                     key={item.id}
                                     type="button"
                                     onClick={() => setOperation(item.id)}
-                                    className={`rounded-md border px-2.5 py-2 text-left transition ${operation === item.id ? 'border-blue-500 bg-blue-600 text-white shadow-sm shadow-blue-100' : 'border-slate-200 bg-white text-slate-600 hover:border-blue-200 hover:bg-blue-50'}`}
+                                    className={`rounded-md border px-2.5 py-2 text-left transition ${operation === item.id ? 'border-indigo-500 bg-indigo-600 text-white shadow-sm shadow-blue-100' : 'border-slate-200 bg-white text-slate-600 hover:border-indigo-200 hover:bg-indigo-50'}`}
                                 >
                                     <span className="flex min-w-0 items-center gap-1.5">
                                         <Icon name={item.icon} size={14} className="shrink-0" />
                                         <span className="truncate text-sm font-bold leading-5">{labels.title || item.title}</span>
                                         {item.badge && <span className="shrink-0 text-xs leading-none" aria-label="Popular">{item.badge}</span>}
                                     </span>
-                                    <span className={`mt-0.5 block truncate text-[11px] leading-4 ${operation === item.id ? 'text-blue-100' : 'text-slate-400'}`}>{labels.desc || item.desc}</span>
+                                    <span className={`mt-0.5 block truncate text-[11px] leading-4 ${operation === item.id ? 'text-indigo-100' : 'text-slate-400'}`}>{labels.desc || item.desc}</span>
                                 </button>
                             );
                         })}
@@ -1065,7 +1065,7 @@ export default function VideoConvert({ copy = {} }) {
                                 {audioOutput && <audio src={output.url} controls className="w-full" />}
                                 {imageOutput && <img src={output.url} className="max-h-52 w-full rounded-md object-contain" alt={uiText('outputPreviewAlt', 'Converted output preview')} />}
                                 {!audioOutput && !imageOutput && <video src={output.url} controls className="w-full rounded-md bg-black" />}
-                                <button type="button" onClick={download} className="flex w-full items-center justify-center gap-2 rounded-full bg-blue-600 px-4 py-2 text-sm font-bold text-white hover:bg-blue-500">
+                                <button type="button" onClick={download} className="flex w-full items-center justify-center gap-2 rounded-full bg-indigo-600 px-4 py-2 text-sm font-bold text-white hover:bg-indigo-500">
                                     <Icon name="Download" />
                                     {t.download} ({formatBytes(output.size)})
                                 </button>
@@ -1099,14 +1099,14 @@ function Range({ label, value, onChange, ...props }) {
 function getFFmpegStatus({ status, ffmpegLoaded, progress, copy }) {
     if (status === 'loading') {
         return {
-            dotClass: 'bg-blue-400 shadow-[0_0_0_3px_rgba(96,165,250,0.18)]',
+            dotClass: 'bg-violet-400 shadow-[0_0_0_3px_rgba(96,165,250,0.18)]',
             label: `${copy.ffmpegLoading} (${progress}%)`,
             button: `${copy.loading} ${progress}%`,
         };
     }
     if (status === 'processing') {
         return {
-            dotClass: 'bg-blue-400 shadow-[0_0_0_3px_rgba(96,165,250,0.18)]',
+            dotClass: 'bg-violet-400 shadow-[0_0_0_3px_rgba(96,165,250,0.18)]',
             label: copy.ffmpegProcessing,
             button: copy.processing,
         };

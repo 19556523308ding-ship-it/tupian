@@ -22,7 +22,7 @@ export default {
     solid_14: 'bg-teal-400',
     solid_15: 'bg-cyan-400',
     solid_16: 'bg-sky-400',
-    solid_17: 'bg-blue-400',
+    solid_17: 'bg-violet-400',
     solid_18: 'bg-indigo-400',
     solid_19: 'bg-violet-400',
     solid_20: 'bg-purple-400',

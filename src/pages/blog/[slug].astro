@@ -33,15 +33,15 @@ const cover = post.data.cover || '/image.png';
 
 <Layout title={post.data.title} description={post.data.description} image={cover} languageAlternates={false}>
     <main class="relative overflow-hidden min-h-screen flex flex-col">
-        <div class="z-0 absolute w-80 h-60 bg-blue-600 blur-[80px] opacity-30 -top-20 -right-20"></div>
-        <div class="z-0 absolute w-80 h-60 bg-blue-400 blur-[80px] opacity-30 top-40 left-40"></div>
+        <div class="z-0 absolute w-80 h-60 bg-indigo-600 blur-[80px] opacity-30 -top-20 -right-20"></div>
+        <div class="z-0 absolute w-80 h-60 bg-violet-400 blur-[80px] opacity-30 top-40 left-40"></div>
         <div class="z-0 absolute w-80 h-60 bg-purple-400 blur-[80px] opacity-30 top-40 right-40"></div>
         <Header />
         <div class="container py-8 relative z-10 flex-1">
             <div class="flex gap-1 text-xs text-slate-400 mb-10">
                 <a href="/blog" title="blog" class="hover:underline">Blog</a>
                 <span>/</span>
-                <span class="w-96 max-w-[70%] font-semibold truncate text-blue-500">{post.data.title}</span>
+                <span class="w-96 max-w-[70%] font-semibold truncate text-indigo-500">{post.data.title}</span>
             </div>
             <section>
                 <div class="max-w-3xl">

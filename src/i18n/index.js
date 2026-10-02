@@ -32,7 +32,7 @@ export const languages = {
 }
 
 export const getLocale = (locale) => {
-    let defaultLang = 'en';
+    let defaultLang = 'zh-CN';
     if (!locale) return defaultLang;
     for (const item of CONFIG.locals) {
         if (item.toLocaleLowerCase() === locale.toLocaleLowerCase()) {
@@ -43,7 +43,7 @@ export const getLocale = (locale) => {
 }
 
 export const getLang = (locale) => {
-    let defaultLang = 'en';
+    let defaultLang = 'zh-CN';
     if (!locale) return languages[defaultLang];
     for (const item of CONFIG.locals) {
         if (item.toLocaleLowerCase() === locale.toLocaleLowerCase()) {

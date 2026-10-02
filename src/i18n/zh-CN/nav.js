@@ -24,8 +24,8 @@ export default {
         title: '在线拼长图',
     },
     videoConvert: {
-        name: '视频',
-        title: '在线视频转换',
+        name: '视频转GIF',
+        title: '在线视频转GIF',
     },
     convert: {
         name: '转换',
