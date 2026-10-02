@@ -24,8 +24,8 @@ export default {
         title: 'Long Image Composer'
     },
     videoConvert: {
-        name: 'Video',
-        title: 'Video Convert'
+        name: 'Video to GIF',
+        title: 'Video to GIF Converter'
     },
     convert: {
         name: 'Convert',

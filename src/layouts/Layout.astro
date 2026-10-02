@@ -4,6 +4,7 @@ import { SEO } from 'astro-seo';
 import '@static/global.css';
 import { CONFIG, LANGUAGES_CODE } from '@lib/config';
 import { getLocale, getLang } from '@i18n/index';
+import { getSwitchLocaleUrl, DEFAULT_LOCALE } from '@lib/localePaths';
 interface Props {
     title: string;
     description?: string;
@@ -17,19 +18,12 @@ const resolvedImageWithDomain = `${origin}/image.png`;
 const canonicalURL = new URL(pathname, origin);
 const lang = getLocale(locale);
 const languagesCode = LANGUAGES_CODE as {[key: string]: string};
-const pathParts = pathname.split('/').filter(Boolean);
-const currentLocaleFromPath = CONFIG.locals.find(item => item.toLowerCase() === pathParts[0]?.toLowerCase());
-const pagePath = currentLocaleFromPath ? pathParts.slice(1) : pathParts;
-const toLocalizedPath = (targetLocale: string) => {
-    const segments = targetLocale === 'en' ? pagePath : [targetLocale, ...pagePath];
-    return `/${segments.join('/')}`;
-};
 const alternates = CONFIG.locals.map(item => {
-    const href = new URL(toLocalizedPath(item), CONFIG.website).toString();
+    const href = new URL(getSwitchLocaleUrl(pathname, item), CONFIG.website).toString();
     return {href, hrefLang: languagesCode[item] || item};
-})
+});
 alternates.push({
-    href: new URL(toLocalizedPath('en'), CONFIG.website).toString(),
+    href: new URL(getSwitchLocaleUrl(pathname, DEFAULT_LOCALE), CONFIG.website).toString(),
     hrefLang: 'x-default'
 });
 const t = getLang(locale)

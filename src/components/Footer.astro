@@ -1,5 +1,5 @@
 ---
-import { getRelativeLocaleUrl } from '@lib/localePaths';
+import { getRelativeLocaleUrl, getSwitchLocaleUrl } from '@lib/localePaths';
 import {getLocale, getLang} from '@i18n/index';
 import { CONFIG, LANGUAGES } from '@lib/config';
 interface Props {
@@ -9,8 +9,7 @@ const { showLanguageSwitcher = true } = Astro.props;
 const { locale } = Astro.params;
 const lang = getLocale(locale);
 const l = getLang(locale);
-const languages = LANGUAGES as {[key: string]: string}
-const reg = new RegExp(`/${lang}`, 'i');
+const languages = LANGUAGES as {[key: string]: string};
 const coreTools = [
     { href: getRelativeLocaleUrl(lang, '/take-a-screenshot'), title: l.nav.screenshot.title, label: l.nav.screenshot.name },
     { href: getRelativeLocaleUrl(lang, '/screenshot-beautifier'), title: l.nav.beautifier.title, label: l.nav.beautifier.name },
@@ -29,7 +28,7 @@ const claudeUrl = `https://claude.ai/new?q=${encodedAiPrompt}`;
 const perplexityUrl = `https://www.perplexity.ai/?q=${encodedAiPrompt}`;
 const grokUrl = `https://grok.com/?q=${encodedAiPrompt}`;
 const langUrls = CONFIG.locals.map(item => {
-    const href = new URL((lang === 'en' && item !== 'en' ? item : '') + Astro.url.pathname.replace(reg, item === 'en' ? '': item), Astro.url.origin).toString();
+    const href = getSwitchLocaleUrl(Astro.url.pathname, item);
     return {href, hrefLang: languages[item] || item, isActive: item.toLocaleLowerCase() === lang.toLocaleLowerCase()};
 });
 ---

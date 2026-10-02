@@ -38,7 +38,7 @@ const toAbsoluteUrl = (path) => new URL(path, CONFIG.website).toString();
 const toLocalizedPath = (locale, page) => page ? `/${locale}/${page}/` : `/${locale}/`;
 const sitemapCustomPages = [
   ...CONFIG.locals
-    .filter((locale) => locale !== 'en')
+    .filter((locale) => locale !== 'zh-CN')
     .flatMap((locale) => localizedPages.map((page) => toAbsoluteUrl(toLocalizedPath(locale, page)))),
   ...ruScreenshotClusterPages.map((page) => toAbsoluteUrl(`/ru/${page}/`))
 ];
@@ -51,7 +51,7 @@ export default defineConfig({
   integrations: [tailwind(), react(), sitemap({
     customPages: sitemapCustomPages,
     i18n: {
-      defaultLocale: "en",
+      defaultLocale: "zh-CN",
       locales: LANGUAGES_CODE
     }
   })],
