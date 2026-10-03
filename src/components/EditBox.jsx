@@ -22,7 +22,7 @@ export default function App() {
     const fileInput = useRef(null);
     const [isReader, setIsReader] = useState(true);
     const [photoUrl, setPhotoUrl] = useState(photo.src);
-    const [photoName, setPhotoName] = useState('zhangjiajie-landscape');
+    const [photoName, setPhotoName] = useState('scenic-forest-creek');
 
     usePaste((file) => {
         setPhotoUrl(window.URL.createObjectURL(file));
@@ -46,7 +46,7 @@ export default function App() {
         <>
             <div className="flex justify-center items-center gap-2 mb-6">
                 <div className="relative">
-                    <button className="py-1.5 flex gap-1.5 items-center px-5 rounded-full text-sm font-semibold border-0 bg-gradient-to-r from-indigo-600 to-purple-600 text-white shadow-brand hover:shadow-brand-lg hover:scale-[1.02] transition-all cursor-pointer" onClick={handleSelect}>Select photo to edit</button>
+                    <button className="py-2 flex gap-2 items-center px-6 rounded-full text-sm font-semibold border-0 bg-gradient-to-r from-[#203254] via-indigo-600 to-[#3daba4] text-white shadow-md hover:shadow-lg hover:scale-[1.02] transition-all cursor-pointer" onClick={handleSelect}>Select photo to edit</button>
                     <input
                         ref={fileInput}
                         type="file"

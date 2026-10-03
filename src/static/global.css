@@ -1,23 +1,25 @@
 :root {
     --accent: 79, 70, 229;        /* 品牌靛蓝 #4f46e5 */
     --accent-light: 167, 139, 250; /* 紫 #a78bfa */
-    --accent-dark: 55, 48, 163;   /* 深靛蓝 #3730a3 */
+    --accent-dark: 32, 50, 84;     /* Filerobot 深邃深蓝灰 #203254 */
+    --filerobot-teal: #3daba4;     /* Filerobot 高级薄荷青绿 */
+    --filerobot-navy: #203254;     /* Filerobot 典雅深青黑 */
     --accent-gradient: linear-gradient(
         135deg,
-        rgb(var(--accent)) 0%,
-        #7c3aed 50%,
-        rgb(var(--accent-light)) 100%
+        #203254 0%,
+        #4f46e5 55%,
+        #3daba4 100%
     );
     --c-bg: #f8fafc;
     --c-wg: #fff;
-    --c-wb: #c2c2c2;
+    --c-wb: #e2e8f0;
     --c-bg-op: #f8fafc00;
-    --c-fg: #444444;
-    --c-scroll: #d9d9d9;
-    --c-scroll-hover: #bbbbbb;
+    --c-fg: #334155;
+    --c-scroll: #cbd5e1;
+    --c-scroll-hover: #94a3b8;
     --ant-color-primary: #4f46e5;
     scrollbar-color: var(--c-scrollbar) var(--c-bg);
-    --primary-glow: conic-gradient(from 180deg at 50% 50%,#4f46e533 0deg,#7c3aed33 55deg,#a78bfa33 120deg,#22d3ee33 160deg,transparent 360deg);
+    --primary-glow: conic-gradient(from 180deg at 50% 50%,#4f46e533 0deg,#7c3aed33 55deg,#3daba433 120deg,#20325433 160deg,transparent 360deg);
 }
 
 html {
