@@ -63,7 +63,7 @@ const navList = [
 ---
 
 <header class="container flex flex-col gap-3 items-center justify-center p-4 relative z-10 select-none md:flex-row md:justify-between">
-    <a href={index} class="flex items-center gap-2 font-extrabold text-lg text-[#203254]"><Logo height={38} /><span class="bg-gradient-to-r from-slate-900 via-indigo-600 to-teal-500 bg-clip-text text-transparent">动图坊</span></a>
+    <a href={index} class="flex items-center gap-2.5 font-extrabold text-xl text-[#203254]"><Logo height={52} /><span class="bg-gradient-to-r from-slate-900 via-indigo-600 to-teal-500 bg-clip-text text-transparent">动图坊</span></a>
     <nav class="grid grid-cols-4 justify-center gap-1 w-full max-w-[340px] text-center text-[11px] text-slate-600 bg-white rounded-3xl p-1 px-1 shadow-sm sm:max-w-full md:flex md:flex-wrap md:w-auto md:gap-2 md:px-2 md:text-sm [&_span]:rounded-xl [&_span]:px-1.5 md:[&_span]:px-2 [&_span]:bg-gradient-to-r [&_span]:from-indigo-600 [&_span]:to-purple-600 [&_span]:text-white [&_a]:rounded-xl [&_a]:px-1.5 md:[&_a]:px-2 hover:[&_a]:bg-indigo-50 hover:[&_a]:text-indigo-600">
         {navList.map(item => {
             if (pathname.toLocaleLowerCase() === item.pathname.toLocaleLowerCase()) return (<span>{item.name}</span>)

@@ -1,10 +1,7 @@
 ---
-import BrowserIcon from '@components/BrowserIcon.astro';
 import EditBox from '@components/EditBox.jsx';
 import Privacy from '@components/Privacy.astro';
-import fakeact from '@static/fakeact.svg';
-import fakemail from '@static/fakemail.svg';
-import { getLang, getLocale, getBrowserType } from '@i18n/index';
+import { getLang, getLocale } from '@i18n/index';
 import { getRelativeLocaleUrl } from '@lib/localePaths';
 
 const { locale } = Astro.params;
@@ -12,13 +9,6 @@ const l = getLang(locale);
 const lang = getLocale(locale);
 const t = l.editor;
 
-const extLink = {
-    'Edge': 'https://microsoftedge.microsoft.com/addons/detail/kncmnbknmjfaejmkcogljhkehippifho',
-    'Firefox': 'https://addons.mozilla.org/zh-CN/firefox/addon/shoteasy/',
-    'Chrome': 'https://chromewebstore.google.com/detail/nmppkehciohcgcehlnifgeokgioidknh'
-} as {[key: string]: string};
-
-const browserType = getBrowserType(Astro.request?.headers?.get('User-Agent'));
 const videoConvertUrl = getRelativeLocaleUrl(lang, '/video-convert');
 ---
 
@@ -39,25 +29,9 @@ const videoConvertUrl = getRelativeLocaleUrl(lang, '/video-convert');
     <h1 class="text-4xl text-center leading-[42px] font-extrabold mb-2 bg-gradient-to-r from-slate-900 via-indigo-600 to-teal-500 bg-clip-text text-transparent">
         {t.feature}
     </h1>
-    <p class="text-center text-slate-600">
+    <p class="text-center text-slate-600 mb-6">
         <span>{t.noSign}</span><span>{t.online} </span><span class="font-extrabold bg-gradient-to-r from-indigo-600 to-teal-500 bg-clip-text text-transparent">{t.free} ✨</span>
     </p>
-
-    <!-- 浏览器插件 / 快速行动 -->
-    <div class="flex flex-col items-center gap-1 justify-center pt-3 pb-3">
-        <a
-            href={extLink[browserType] || extLink.Chrome}
-            title={t.extension}
-            target="_blank"
-            rel="noopener noreferrer"
-            class="py-2.5 px-5 flex gap-2 items-center rounded-full text-sm mt-3 mb-2 bg-slate-900 text-white select-none hover:bg-indigo-600 transition-colors shadow-sm"
-        >
-            <BrowserIcon type={browserType} width={18} height={18} />
-            <span>{t.extension}</span>
-        </a>
-        <p class="text-xs opacity-75 text-center">{t.capture}</p>
-        <p class="text-xs opacity-75">{t.instantly}</p>
-    </div>
 
     <!-- 工具快捷胶囊栏（视频转 GIF 居首并带有高亮效果） -->
     <div class="flex flex-col gap-2.5 justify-center text-xs md:flex-row md:flex-wrap my-4">
@@ -159,29 +133,10 @@ const videoConvertUrl = getRelativeLocaleUrl(lang, '/video-convert');
     <!-- 隐私保护 -->
     <Privacy />
 
-    <!-- 技术支持声明 -->
-    <section class="text-center text-xs text-slate-400 [&_a]:underline py-3">
-        Image Editor powered by <a href="https://github.com/scaleflex/filerobot-image-editor" target="_blank" rel="noopener noreferrer">Filerobot Image Editor</a>
+    <!-- 底部开源与作者支持信息（链接至用户 GitHub） -->
+    <section class="text-center text-xs text-slate-400 [&_a]:underline py-6">
+        Designed & Maintained with ❤️ by <a href="https://github.com/19556523308ding-ship-it" target="_blank" rel="noopener noreferrer" class="font-medium text-indigo-600 hover:text-indigo-800">19556523308ding-ship-it</a>
     </section>
-
-    <!-- 友情链接 / 更多工具 -->
-    <div class="container mx-auto p-4 border-t border-slate-100 mt-4">
-        <h3 class="text-center font-semibold p-2 mb-2 text-xs text-slate-500 uppercase tracking-wider">More Tools</h3>
-        <div class="flex flex-row gap-6 justify-center">
-            <div class="text-center">
-                <a href="https://fakeact.fun/" target="_blank" title="fakeact.fun" class="inline-block text-xs p-2 rounded-md hover:bg-slate-100 transition-colors">
-                    <img src={fakeact.src} alt="Fakeact logo" class="mx-auto mb-2 w-8" />
-                    <p class="text-slate-600">Fakeact</p>
-                </a>
-            </div>
-            <div class="text-center">
-                <a href="https://mail.fakeact.fun/" target="_blank" title="mail.fakeact.fun" class="inline-block text-xs p-2 rounded-md hover:bg-slate-100 transition-colors">
-                    <img src={fakemail.src} alt="FakeMail logo" class="mx-auto mb-2 w-8" />
-                    <p class="text-slate-600">FakeMail</p>
-                </a>
-            </div>
-        </div>
-    </div>
 </div>
 
 <script type="application/ld+json" set:html={JSON.stringify({
