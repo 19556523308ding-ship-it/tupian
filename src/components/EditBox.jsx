@@ -22,7 +22,7 @@ export default function App() {
     const fileInput = useRef(null);
     const [isReader, setIsReader] = useState(true);
     const [photoUrl, setPhotoUrl] = useState(photo.src);
-    const [photoName, setPhotoName] = useState('neom-s6g6ZSxM3kQ-unsplash');
+    const [photoName, setPhotoName] = useState('sample-mount-fuji');
 
     usePaste((file) => {
         setPhotoUrl(window.URL.createObjectURL(file));
@@ -46,7 +46,7 @@ export default function App() {
         <>
             <div className="flex justify-center items-center gap-2 mb-6">
                 <div className="relative">
-                    <button className="py-1 flex gap-1 items-center px-4 rounded-full text-sm border-0 bg-[#6879eb] text-white" onClick={handleSelect}>Select photo to edit</button>
+                    <button className="py-1.5 flex gap-1.5 items-center px-5 rounded-full text-sm font-semibold border-0 bg-gradient-to-r from-indigo-600 to-purple-600 text-white shadow-brand hover:shadow-brand-lg hover:scale-[1.02] transition-all cursor-pointer" onClick={handleSelect}>Select photo to edit</button>
                     <input
                         ref={fileInput}
                         type="file"
