@@ -22,7 +22,7 @@ export default function App() {
     const fileInput = useRef(null);
     const [isReader, setIsReader] = useState(true);
     const [photoUrl, setPhotoUrl] = useState(photo.src);
-    const [photoName, setPhotoName] = useState('sample-mount-fuji');
+    const [photoName, setPhotoName] = useState('zhangjiajie-landscape');
 
     usePaste((file) => {
         setPhotoUrl(window.URL.createObjectURL(file));
