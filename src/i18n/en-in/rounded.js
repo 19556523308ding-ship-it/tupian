@@ -1,5 +1,5 @@
 export default {
-    title: 'Round Photo Corners Online and Export PNG | ShotEasy',
+    title: 'Round Photo Corners Online and Export PNG | Gif Workshop',
     description: 'Add rounded corners to photos online and export PNG locally in your browser. No upload required.',
     tip: 'No upload, edit in browser',
     online: 'Round Photo Online',

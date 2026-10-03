@@ -1,5 +1,5 @@
 export default {
-    title: 'Buat Gambar Panjang Online - Gabung Gambar dan PDF | ShotEasy',
+    title: 'Buat Gambar Panjang Online - Gabung Gambar dan PDF | Bengkel GIF',
     description: 'Gabungkan banyak gambar, ubah halaman PDF menjadi satu gambar panjang, dan stitch PNG/JPG vertikal atau horizontal di browser.',
     keywords: 'buat gambar panjang, gabung gambar online, pdf ke gambar panjang, stitch gambar, gabung png, gabung jpg',
     tip: 'Tanpa upload, stitch gambar secara lokal',

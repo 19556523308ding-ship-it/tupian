@@ -1,5 +1,5 @@
 export default {
-    title: 'Bildhintergrund online entfernen | ShotEasy',
+    title: 'Bildhintergrund online entfernen | Gif-Werkstatt',
     description: 'Entfernen Sie Fotohintergründe automatisch und erstellen Sie transparente Bilder direkt im Browser. Schnell, kostenlos und ohne Anmeldung.',
     tips: 'Bild hinzufügen, um den Hintergrund zu entfernen oder zu ersetzen',
     how: 'Wie entfernt man einen Bildhintergrund?',

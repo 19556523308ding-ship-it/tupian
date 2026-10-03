@@ -1,5 +1,5 @@
 export default {
-    title: 'Word, Excel और PPT Online खोलें - Free Office Viewer | ShotEasy',
+    title: 'Word, Excel और PPT Online खोलें - Free Office Viewer | GIF वर्कशॉप',
     description: 'DOCX, XLSX, PPTX, CSV, PDF, ZIP और RAR files browser में online खोलें. Install नहीं, private files upload जरूरी नहीं.',
     keywords: 'open docx online, office viewer, pptx open, excel viewer online, xlsx online, pdf viewer, zip extractor, rar extractor',
     h1: 'Word, Excel और PPT Online खोलें - Free Secure Office Viewer',
@@ -9,7 +9,7 @@ export default {
         { title: 'View Excel Spreadsheets', desc: 'Preview XLSX workbooks, sheets, rows, columns, charts, and cell formatting.', icon: 'Table2' },
         { title: 'View PowerPoint Presentations', desc: 'Open PPTX slides online and move through decks without installing Office.', icon: 'Presentation' },
         { title: 'View CSV Files', desc: 'Inspect CSV data in a clean table preview for quick spreadsheet checks.', icon: 'Rows3' },
-        { title: 'View PDF Files', desc: 'Render PDF pages locally with the same PDF library already used by ShotEasy.', icon: 'File' },
+        { title: 'View PDF Files', desc: 'Render PDF pages locally with the same PDF library already used by GIF वर्कशॉप.', icon: 'File' },
         { title: 'View ZIP & RAR Archives', desc: 'Browse archive folders, preview supported files, and download extracted items.', icon: 'Archive' }
     ],
     tool: {
@@ -51,7 +51,7 @@ export default {
     supportCont1: 'DOCX, XLSX, PPTX, CSV, PDF, images, text files, ZIP और RAR preview supported हैं.',
     supportCont2: 'ZIP और RAR archive tree में खुलते हैं, जहां files preview या download कर सकते हैं.',
     seoTitle: 'DOCX, XLSX, PPTX, PDF, CSV, ZIP और RAR के लिए free online office viewer',
-    seoIntro: 'ShotEasy Viewer open docx online, office viewer, pptx open, zip extractor online और rar extractor searches के लिए बनाया गया है.',
+    seoIntro: 'GIF वर्कशॉप Viewer open docx online, office viewer, pptx open, zip extractor online और rar extractor searches के लिए बनाया गया है.',
     featureSections: [
         {
             title: 'DOCX online खोलें',

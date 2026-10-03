@@ -348,7 +348,7 @@ const LongImageComposer = () => {
 
     const download = () => {
         if (!result) return;
-        toDownloadFile(result.url, `shoteasy-long-image.${result.format}`);
+        toDownloadFile(result.url, `dongtufang-long-image.${result.format}`);
         messageApi.success('Download Success!');
     };
 

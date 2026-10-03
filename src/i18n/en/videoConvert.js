@@ -1,5 +1,5 @@
 export default {
-    title: 'GIF Maker, Video to GIF & MP4 to GIF Converter | ShotEasy',
+    title: 'GIF Maker, Video to GIF & MP4 to GIF Converter | Gif Workshop',
     description: 'Free online gif maker and video to gif converter. Convert MP4 to GIF, compress video, change speed, extract audio, crop, trim, and run FFmpeg locally in your browser.',
     keywords: 'gif maker, video to gif, mp4 to gif, online gif maker, convert video to gif, mp4 gif converter, video converter, ffmpeg wasm, browser video editor, compress video, trim video, extract audio from video',
     h1: 'GIF Maker and Video to GIF Converter',
@@ -14,7 +14,7 @@ export default {
     privacyCont1: 'Files are written only into the browser FFmpeg virtual filesystem while the conversion runs.',
     privacyCont2: 'Large videos can take time because all work happens on your computer instead of a remote server.',
     seoTitle: 'Free browser GIF maker and video converter',
-    seoIntro: 'ShotEasy Video Convert is a local-first gif maker, video to gif converter, and MP4 to GIF tool powered by ffmpeg.wasm. It covers common video editing jobs from ffmpeg-webCLI-style workflows while keeping files inside your browser.',
+    seoIntro: 'Gif Workshop Video Convert is a local-first gif maker, video to gif converter, and MP4 to GIF tool powered by ffmpeg.wasm. It covers common video editing jobs from ffmpeg-webCLI-style workflows while keeping files inside your browser.',
     featureSections: [
         {
             title: 'Make GIFs from MP4, MOV, WebM, and other videos',
@@ -49,7 +49,7 @@ export default {
         },
         {
             question: 'Is this gif maker private?',
-            answer: 'Yes. The file is processed locally in your browser with ffmpeg.wasm. ShotEasy does not upload your video to a conversion server.'
+            answer: 'Yes. The file is processed locally in your browser with ffmpeg.wasm. Gif Workshop does not upload your video to a conversion server.'
         },
         {
             question: 'Can I use it as a general video converter too?',

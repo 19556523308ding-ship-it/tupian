@@ -1,5 +1,5 @@
 export default {
-    title: '온라인 스크린샷 꾸미기 | ShotEasy',
+    title: '온라인 스크린샷 꾸미기 | 움짤공방',
     description: '배경, 기기 프레임, 그림자, 레이아웃으로 소셜 미디어, 튜토리얼, 제품 페이지용 스크린샷을 만드세요.',
     not: '업로드 없이 브라우저에서 편집',
     new: 'The new version, developed by LeaferJs, use it now',

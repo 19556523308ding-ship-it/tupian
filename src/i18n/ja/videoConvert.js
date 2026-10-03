@@ -2,7 +2,7 @@ import en from '../en/videoConvert';
 
 export default {
     ...en,
-    title: 'GIF Maker・Video to GIF・MP4 to GIF 変換 | ShotEasy',
+    title: 'GIF Maker・Video to GIF・MP4 to GIF 変換 | 動図坊',
     description: '無料の GIF maker と video to GIF 変換ツール。MP4 to GIF、動画圧縮、速度変更、音声抽出、切り抜き、FFmpeg 処理をブラウザで実行できます。',
     keywords: 'gif maker, GIF作成, video to gif, 動画をGIFに変換, mp4 to gif, MP4をGIFに変換, 動画変換, ffmpeg wasm, 動画圧縮, 動画切り抜き, 音声抽出',
     h1: 'GIF Maker と Video to GIF 変換',
@@ -17,7 +17,7 @@ export default {
     privacyCont1: '変換中のファイルはブラウザ内の FFmpeg 仮想ファイルシステムにのみ書き込まれます。',
     privacyCont2: 'すべて端末上で処理するため、大きな動画は時間がかかることがあります。',
     seoTitle: 'ブラウザで使える無料 GIF maker と動画変換',
-    seoIntro: 'ShotEasy Video Convert は ffmpeg.wasm を使ったローカル優先の gif maker、video to GIF 変換、MP4 to GIF ツールです。ffmpeg-webCLI に近いワークフローをブラウザ内で提供します。',
+    seoIntro: '動図坊 Video Convert は ffmpeg.wasm を使ったローカル優先の gif maker、video to GIF 変換、MP4 to GIF ツールです。ffmpeg-webCLI に近いワークフローをブラウザ内で提供します。',
     featureSections: [
         {
             title: 'MP4、MOV、WebM などから GIF を作成',
@@ -52,7 +52,7 @@ export default {
         },
         {
             question: 'この GIF maker はプライベートですか？',
-            answer: 'はい。ファイルは ffmpeg.wasm によりブラウザ内でローカル処理されます。ShotEasy は動画を変換サーバーへアップロードしません。'
+            answer: 'はい。ファイルは ffmpeg.wasm によりブラウザ内でローカル処理されます。動図坊 は動画を変換サーバーへアップロードしません。'
         },
         {
             question: '一般的な動画変換にも使えますか？',

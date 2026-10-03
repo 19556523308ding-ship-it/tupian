@@ -1,19 +1,19 @@
 ---
 title: "Remove Photo Backgrounds Online with a Browser-Based MODNet Workflow"
-description: "Learn how ShotEasy Photo Background Remover uses a pure web workflow and the Xenova/modnet model to create clean background cutouts in your browser."
+description: "Learn how Gif Workshop Photo Background Remover uses a pure web workflow and the Xenova/modnet model to create clean background cutouts in your browser."
 date: 2026-07-01
 cover: "/blog/photo-background-remover-browser-modnet.webp"
 coverAlt: "Browser photo background remover interface with before and after cutout preview"
 tags: ["background remover", "photo editing", "hugging face"]
 ---
 
-Removing a photo background used to mean opening a heavy desktop editor, uploading the image to a cloud service, or doing a slow manual selection. [ShotEasy Photo Background Remover](/background-remover/) is designed for a lighter workflow: open the tool in the browser, choose an image, remove the background, then download the cutout.
+Removing a photo background used to mean opening a heavy desktop editor, uploading the image to a cloud service, or doing a slow manual selection. [Gif Workshop Photo Background Remover](/background-remover/) is designed for a lighter workflow: open the tool in the browser, choose an image, remove the background, then download the cutout.
 
 The important part is that this is a pure web experience. You do not need to install a native app just to remove a background from a portrait, product photo, profile image, or quick design asset.
 
 ## How the browser-based workflow works
 
-ShotEasy loads the background-removal model inside the web page and runs the processing from the browser environment. The image is decoded by the browser, passed through the model, and converted into a foreground mask.
+Gif Workshop loads the background-removal model inside the web page and runs the processing from the browser environment. The image is decoded by the browser, passed through the model, and converted into a foreground mask.
 
 That mask tells the tool which pixels belong to the subject and which pixels should become transparent. After the mask is generated, the app can combine it with the original image, preview the result on a transparent checkerboard, and export a PNG or other usable image output. If you need a different output format later, the [Image Converter](/convert/) can help prepare the file for publishing.
 
@@ -26,7 +26,7 @@ For users, the flow stays simple:
 
 ## Powered by Xenova/modnet
 
-ShotEasy uses the `Xenova/modnet` model from Hugging Face. The model is published for image segmentation and background removal workflows, and its model page shows usage through Transformers.js with a `background-removal` pipeline.
+Gif Workshop uses the `Xenova/modnet` model from Hugging Face. The model is published for image segmentation and background removal workflows, and its model page shows usage through Transformers.js with a `background-removal` pipeline.
 
 This is a good fit for a browser tool because Transformers.js makes it possible to run supported machine learning models in JavaScript. Instead of sending every image to a traditional server-side queue, the web app can use the user's own device to do the work.
 

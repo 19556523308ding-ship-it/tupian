@@ -1,5 +1,5 @@
 export default {
-    title: 'Image Converter Online - PNG to WebP, PDF to Images | ShotEasy',
+    title: 'Image Converter Online - PNG to WebP, PDF to Images | GIF वर्कशॉप',
     description: 'PNG to WebP, JPG to WebP, SVG to PNG, PNG to ICO, images to PDF और PDF to images browser में locally convert करें.',
     keywords: 'image converter online, png to webp, jpg to webp, image to pdf, pdf to image, svg to png, png to ico',
     tip: 'Images और PDFs locally convert करें. No upload, no signup.',

@@ -1,5 +1,5 @@
 export default {
-    title: 'Unir imágenes online - PDF a imagen larga | ShotEasy',
+    title: 'Unir imágenes online - PDF a imagen larga | Taller de GIF',
     description: 'Herramienta gratis para unir varias imágenes, convertir PDF a imagen larga y combinar PNG o JPG en vertical u horizontal. Todo se procesa en el navegador.',
     keywords: 'unir imágenes online, combinar imágenes, imagen larga, PDF a imagen larga, unir PNG, unir JPG, crear imagen larga, fusionar imágenes, stitch images online, merge images online',
     tip: 'Sin subir archivos, une imágenes localmente en tu navegador',

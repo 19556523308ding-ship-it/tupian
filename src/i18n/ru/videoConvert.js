@@ -2,7 +2,7 @@ import en from '../en/videoConvert';
 
 export default {
     ...en,
-    title: 'GIF Maker, Video to GIF и MP4 to GIF конвертер | ShotEasy',
+    title: 'GIF Maker, Video to GIF и MP4 to GIF конвертер | Мастерская GIF',
     description: 'Бесплатный GIF maker и конвертер video to GIF. Конвертируйте MP4 в GIF, сжимайте видео, меняйте скорость, извлекайте аудио, обрезайте кадр и запускайте FFmpeg в браузере.',
     keywords: 'gif maker, создание gif, video to gif, видео в gif, mp4 to gif, mp4 в gif, конвертер видео, ffmpeg wasm, сжать видео, обрезать видео, извлечь аудио из видео',
     h1: 'GIF Maker и конвертер video to GIF',
@@ -17,7 +17,7 @@ export default {
     privacyCont1: 'Файлы во время обработки записываются только во виртуальную файловую систему FFmpeg внутри браузера.',
     privacyCont2: 'Большие видео могут обрабатываться дольше, потому что вся работа выполняется на вашем компьютере, а не на удалённом сервере.',
     seoTitle: 'Бесплатный GIF maker и конвертер видео в браузере',
-    seoIntro: 'ShotEasy Video Convert — локальный GIF maker, video to GIF и MP4 to GIF инструмент на базе ffmpeg.wasm. Он поддерживает рабочие процессы в стиле ffmpeg-webCLI и сохраняет файлы внутри браузера.',
+    seoIntro: 'Мастерская GIF Video Convert — локальный GIF maker, video to GIF и MP4 to GIF инструмент на базе ffmpeg.wasm. Он поддерживает рабочие процессы в стиле ffmpeg-webCLI и сохраняет файлы внутри браузера.',
     featureSections: [
         {
             title: 'Создавайте GIF из MP4, MOV, WebM и других видео',
@@ -52,7 +52,7 @@ export default {
         },
         {
             question: 'Этот GIF maker приватный?',
-            answer: 'Да. Файл обрабатывается локально в браузере с помощью ffmpeg.wasm. ShotEasy не отправляет ваше видео на сервер конвертации.'
+            answer: 'Да. Файл обрабатывается локально в браузере с помощью ffmpeg.wasm. Мастерская GIF не отправляет ваше видео на сервер конвертации.'
         },
         {
             question: 'Можно ли использовать страницу как обычный видеоконвертер?',

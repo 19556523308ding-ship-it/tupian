@@ -1,5 +1,5 @@
 export default {
-    title: '在线打开 Word、Excel 和 PPT - 免费安全 Office 查看器 | ShotEasy',
+    title: '在线打开 Word、Excel 和 PPT - 免费安全 Office 查看器 | 动图坊',
     description: '免费在线打开 DOCX、XLSX、PPTX、CSV、PDF、ZIP 和 RAR 文件。无需安装，文件在浏览器中本地处理，不离开你的设备。',
     keywords: '在线打开docx, 在线打开pptx, office查看器, 在线office查看器, xlsx在线查看, excel在线查看器, pdf在线查看, csv在线查看, rar在线解压, zip在线解压, docx在线查看器',
     h1: '在线打开 Word、Excel 和 PPT - 免费安全 Office 查看器',
@@ -9,7 +9,7 @@ export default {
         { title: '查看 Excel 表格', desc: '预览 XLSX 工作簿、工作表、行列、图表和单元格格式。', icon: 'Table2' },
         { title: '查看 PowerPoint 演示文稿', desc: '在线打开 PPTX 幻灯片，无需安装 PowerPoint。', icon: 'Presentation' },
         { title: '查看 CSV 文件', desc: '用清晰表格预览 CSV 数据，快速检查行列内容。', icon: 'Rows3' },
-        { title: '查看 PDF 文件', desc: '使用 ShotEasy 现有 PDF 渲染能力在本地打开 PDF 页面。', icon: 'File' },
+        { title: '查看 PDF 文件', desc: '使用 动图坊 现有 PDF 渲染能力在本地打开 PDF 页面。', icon: 'File' },
         { title: '查看 ZIP 和 RAR 压缩包', desc: '浏览压缩包目录，预览支持的文件，并下载解压后的文件。', icon: 'Archive' }
     ],
     tool: {
@@ -51,7 +51,7 @@ export default {
     supportCont1: '支持预览 DOCX、XLSX、PPTX、CSV、PDF、常见图片、文本文件、ZIP 和 RAR 压缩包。',
     supportCont2: 'ZIP 和 RAR 可按文件夹或树形结构查看，选择压缩包内文件后可预览或下载解压副本。',
     seoTitle: '免费的 DOCX、XLSX、PPTX、PDF、CSV、ZIP 和 RAR 在线查看器',
-    seoIntro: 'ShotEasy Viewer 针对在线打开 docx、office 查看器、pptx open、zip 在线解压和 rar extractor online 等常见搜索需求设计，帮助你无需安装 Word、Excel、PowerPoint、Acrobat 或解压软件即可快速查看文件。',
+    seoIntro: '动图坊 Viewer 针对在线打开 docx、office 查看器、pptx open、zip 在线解压和 rar extractor online 等常见搜索需求设计，帮助你无需安装 Word、Excel、PowerPoint、Acrobat 或解压软件即可快速查看文件。',
     featureSections: [
         {
             title: '在线打开 DOCX',

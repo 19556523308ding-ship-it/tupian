@@ -1,5 +1,5 @@
 export default {
-    title: 'Ghép ảnh dài online - PDF sang ảnh dài | ShotEasy',
+    title: 'Ghép ảnh dài online - PDF sang ảnh dài | Xưởng GIF',
     description: 'Công cụ miễn phí để ghép nhiều ảnh, chuyển PDF thành ảnh dài và ghép PNG hoặc JPG theo chiều dọc/ngang. Mọi thứ xử lý trong trình duyệt.',
     keywords: 'ghép ảnh dài online, ghép nhiều ảnh, PDF sang ảnh dài, nối ảnh, ghép PNG, ghép JPG, tạo ảnh dài, ảnh dài dọc, merge images online, stitch images online',
     tip: 'Không tải lên, ghép ảnh cục bộ trong trình duyệt',

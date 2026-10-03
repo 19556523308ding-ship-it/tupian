@@ -1,5 +1,5 @@
 export default {
-    title: 'Відкрити Word, Excel і PPT онлайн - безкоштовний Office viewer | ShotEasy',
+    title: 'Відкрити Word, Excel і PPT онлайн - безкоштовний Office viewer | Майстерня GIF',
     description: 'Відкривайте DOCX, XLSX, PPTX, CSV, PDF, ZIP і RAR онлайн. Без встановлення: файли обробляються локально у браузері.',
     keywords: 'відкрити docx онлайн, office viewer онлайн, відкрити pptx онлайн, excel viewer онлайн, відкрити xlsx онлайн, pdf viewer онлайн, csv viewer, rar розпакувати онлайн, zip розпакувати онлайн, docx viewer',
     h1: 'Відкрити Word, Excel і PPT онлайн - безкоштовний Office viewer',
@@ -9,7 +9,7 @@ export default {
         { title: 'Перегляд таблиць Excel', desc: 'Попередній перегляд XLSX-книг, аркушів, рядків, стовпців, діаграм і форматування.', icon: 'Table2' },
         { title: 'Перегляд PowerPoint', desc: 'Відкривайте PPTX-слайди онлайн без встановлення Office.', icon: 'Presentation' },
         { title: 'Перегляд CSV', desc: 'Перевіряйте CSV-дані у зрозумілій таблиці.', icon: 'Rows3' },
-        { title: 'Перегляд PDF', desc: 'PDF-сторінки рендеряться локально бібліотекою ShotEasy.', icon: 'File' },
+        { title: 'Перегляд PDF', desc: 'PDF-сторінки рендеряться локально бібліотекою Майстерня GIF.', icon: 'File' },
         { title: 'Перегляд ZIP і RAR', desc: 'Переглядайте папки архіву, відкривайте підтримувані файли і завантажуйте витягнуті елементи.', icon: 'Archive' }
     ],
     tool: {
@@ -51,7 +51,7 @@ export default {
     supportCont1: 'Підтримується перегляд DOCX, XLSX, PPTX, CSV, PDF, популярних зображень, текстових файлів, ZIP і RAR.',
     supportCont2: 'ZIP і RAR відкриваються як дерево архіву. Виберіть файл усередині, щоб переглянути або завантажити витягнуту копію.',
     seoTitle: 'Безкоштовний онлайн Office viewer для DOCX, XLSX, PPTX, PDF, CSV, ZIP і RAR',
-    seoIntro: 'ShotEasy Viewer створений для запитів на кшталт відкрити docx онлайн, office viewer, відкрити pptx онлайн, розпакувати zip онлайн і rar розпакувати онлайн.',
+    seoIntro: 'Майстерня GIF Viewer створений для запитів на кшталт відкрити docx онлайн, office viewer, відкрити pptx онлайн, розпакувати zip онлайн і rar розпакувати онлайн.',
     featureSections: [
         { title: 'Відкрити DOCX онлайн', body: 'Переглядайте документи Word у Canvas-viewer на основі open-source проєкту office-open-xml-viewer.' },
         { title: 'Відкрити XLSX і PPTX онлайн', body: 'Локально переглядайте таблиці Excel і презентації PowerPoint із навігацією по аркушах і слайдах.' },

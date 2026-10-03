@@ -13,8 +13,8 @@ export default {
         "Selon la source d'une image, le fichier pourrait être assez volumineux. Une image JPG d'un appareil photo reflex numérique professionnel, par exemple, pourrait faire des dizaines de mégaoctets. Selon vos besoins, cela pourrait être trop gros. Compresser cette image serait très utile.",
     whyCont2:
         "De même, vous pourriez avoir de grandes images sur votre téléphone. Ces images pourraient prendre beaucoup d'espace sur le disque dur et vous empêcher de prendre d'autres photos. Les compresser pourrait libérer plus d'espace de stockage interne, résolvant ce problème.",
-    vsTitle: 'ShotEasy Compress vs TinyPNG Compress',
-    vsTitle1: 'ShotEasy Compress',
+    vsTitle: 'Atelier GIF Compress vs TinyPNG Compress',
+    vsTitle1: 'Atelier GIF Compress',
     vsTitle2: 'TinyPNG Compress',
     vsCont1: 'Utilisation de bibliothèques C++ natives : libimagequant / libpng / zlib, compilées en WebAssembly, utilisées sur le web.',
     vsCont2: 'Compression au niveau de la mémoire par encodage natif.',

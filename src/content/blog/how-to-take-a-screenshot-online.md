@@ -1,6 +1,6 @@
 ---
 title: "How to Take a Screenshot Online Without Installing an App"
-description: "Learn how to capture, crop, copy, and save screenshots directly in your browser with ShotEasy."
+description: "Learn how to capture, crop, copy, and save screenshots directly in your browser with Gif Workshop."
 date: 2026-06-30
 cover: "/blog/how-to-take-a-screenshot-online.webp"
 coverAlt: "Browser screenshot capture interface with crop handles"
@@ -9,7 +9,7 @@ tags: ["screenshot", "browser tools", "productivity"]
 
 Screenshots are part of everyday work: reporting bugs, saving receipts, sharing a design review, or explaining a workflow to a teammate. The problem is that built-in screenshot tools are often split across shortcuts, folders, and extra editing steps.
 
-[ShotEasy Screenshot Tool](/take-a-screenshot/) keeps the screenshot flow in the browser. You can capture the screen, crop the important part, copy the result, or download the image without installing another desktop application.
+[Gif Workshop Screenshot Tool](/take-a-screenshot/) keeps the screenshot flow in the browser. You can capture the screen, crop the important part, copy the result, or download the image without installing another desktop application.
 
 ## When an online screenshot tool is useful
 
@@ -19,7 +19,7 @@ It is also practical on shared computers where installing software is not conven
 
 ## Privacy-first capture
 
-Modern browsers ask for permission before sharing a screen, window, or tab. ShotEasy uses that browser permission flow, so you choose exactly what to capture.
+Modern browsers ask for permission before sharing a screen, window, or tab. Gif Workshop uses that browser permission flow, so you choose exactly what to capture.
 
 After capture, the editing workflow is designed to stay simple: crop, preview, copy, or save. For many screenshot tasks, that is enough to finish the job without uploading a file to a separate service. If the final image is too large for a website or help article, run it through the [Image Compressor](/image-compressor/) before publishing.
 

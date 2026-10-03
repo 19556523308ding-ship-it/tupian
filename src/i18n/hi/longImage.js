@@ -1,5 +1,5 @@
 export default {
-    title: 'Long Image Online बनाएं - Images और PDF जोड़ें | ShotEasy',
+    title: 'Long Image Online बनाएं - Images और PDF जोड़ें | GIF वर्कशॉप',
     description: 'Multiple images merge करें, PDF pages को one long image में बदलें, और PNG/JPG को browser में stitch करें.',
     keywords: 'long image composer, images merge online, pdf to long image, png stitch, jpg stitch, image joiner',
     tip: 'Upload नहीं, images locally stitch करें',

@@ -1,5 +1,5 @@
 export default {
-    title: 'Compress Images Online Free | ShotEasy',
+    title: 'Compress Images Online Free | Gif Workshop',
     description: 'Compress JPG, PNG, WebP, GIF, SVG, and AVIF locally in your browser. Reduce image size without uploading files.',
     tip: 'No upload, local compression with WebAssembly',
     online: 'Compress Images Online',
@@ -8,8 +8,8 @@ export default {
     why: 'Why compress images?',
     whyCont1: 'Large photos slow pages down, take storage, and are harder to share. Compression keeps files smaller.',
     whyCont2: 'It also helps with upload limits and saving phone or laptop storage.',
-    vsTitle: 'ShotEasy Compress vs TinyPNG',
-    vsTitle1: 'ShotEasy Compress',
+    vsTitle: 'Gif Workshop Compress vs TinyPNG',
+    vsTitle1: 'Gif Workshop Compress',
     vsTitle2: 'TinyPNG Compress',
     vsCont1: 'Using native C++ libraries: libimagequant / libpng / zlib, compiled into WebAssembly, used on the web.',
     vsCont2: 'Compression at the memory level through native encoding.',

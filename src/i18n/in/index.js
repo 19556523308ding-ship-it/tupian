@@ -11,9 +11,9 @@ import convert from './convert';
 import viewer from './viewer';
 
 export default {
-    title: 'Online Photo Editor and Screenshot Tools for Free | ShotEasy',
+    title: 'Online Photo Editor and Screenshot Tools for Free | Gif Workshop',
     description: 'Photo edit online for free, resize, and filter any photos, edit photo on browser, convert image to jpg/png/jpeg/webp, easy to screenshot area or full page',
-    keywords: 'Shot Easy, easy shot, screenshot, edit photo, photo converter, image converter, editor online, change image format online, convert image to jpg, jpg to webp, jpg to png',
+    keywords: 'Gif Workshop, easy shot, screenshot, edit photo, photo converter, image converter, editor online, change image format online, convert image to jpg, jpg to webp, jpg to png',
     privacy: 'Privacy',
     terms: 'Terms',
     blog: 'Blog',

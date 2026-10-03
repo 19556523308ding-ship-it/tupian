@@ -72,7 +72,7 @@ export default function App() {
                     annotationsCommon={{
                         fill: '#ff0000',
                     }}
-                    Text={{ text: 'Shot Easy' }}
+                    Text={{ text: '动图坊' }}
                     Rotate={{ angle: 90, componentType: 'slider' }}
                     Crop={{
                         presetsItems: [

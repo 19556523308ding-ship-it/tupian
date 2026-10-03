@@ -54,7 +54,7 @@ const Compressor = observer(() => {
     const toDownloadZip = async () => {
         setLoading(true);
         const result = await toZip();
-        toDownloadFile(URL.createObjectURL(result), "shoteasy.zip");
+        toDownloadFile(URL.createObjectURL(result), "dongtufang.zip");
         setLoading(false);
         messageApi.success('Download Success!');
     }

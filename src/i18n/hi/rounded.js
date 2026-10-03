@@ -1,5 +1,5 @@
 export default {
-    title: 'Photo Corners Online Round करें और PNG Export करें | ShotEasy',
+    title: 'Photo Corners Online Round करें और PNG Export करें | GIF वर्कशॉप',
     description: 'Photos में rounded corners जोड़ें और PNG export करें. सब कुछ browser में locally होता है.',
     tip: 'Upload नहीं, browser में editing',
     online: 'Photo Round Online',

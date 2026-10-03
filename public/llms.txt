@@ -1,27 +1,27 @@
-# ShotEasy
+# 动图坊 (DongTuFang)
 
-> ShotEasy is a local-first online toolkit for screenshots, image editing, image conversion, image compression, long image composition, background removal, office/document viewing, archive viewing, and video/GIF conversion.
+> 动图坊 (DongTuFang) is a local-first online toolkit for screenshots, image editing, image conversion, image compression, long image composition, background removal, office/document viewing, archive viewing, and video/GIF conversion.
 
-ShotEasy is available at https://shoteasy.fun/. Most tools run directly in the user's browser. The site emphasizes privacy, fast client-side processing, and no file upload for common image, screenshot, document, archive, PDF, and video workflows.
+动图坊 (DongTuFang) is available at //. Most tools run directly in the user's browser. The site emphasizes privacy, fast client-side processing, and no file upload for common image, screenshot, document, archive, PDF, and video workflows.
 
 ## Core Pages
 
-- Homepage and image editor: https://shoteasy.fun/
-- Take a screenshot online: https://shoteasy.fun/take-a-screenshot/
-- Screenshot beautifier: https://shoteasy.fun/screenshot-beautifier/
-- Image compressor: https://shoteasy.fun/image-compressor/
-- Image converter: https://shoteasy.fun/convert/
-- Long image composer: https://shoteasy.fun/long-image/
-- Video convert and GIF maker: https://shoteasy.fun/video-convert/
-- Background remover: https://shoteasy.fun/background-remover/
-- Photo to rounded: https://shoteasy.fun/photo-to-rounded/
-- Office, PDF, CSV, ZIP and RAR viewer: https://shoteasy.fun/viewer/
-- DOCX viewer alias: https://shoteasy.fun/doc-viewer/
-- PowerPoint/PPTX viewer alias: https://shoteasy.fun/ppt-viewer/
-- Excel/XLSX viewer alias: https://shoteasy.fun/excel-viewer/
-- CSV viewer alias: https://shoteasy.fun/csv-viewer/
-- PDF viewer alias: https://shoteasy.fun/pdf-viewer/
-- ZIP and RAR archive viewer alias: https://shoteasy.fun/archive-viewer/
+- Homepage and image editor: //
+- Take a screenshot online: //take-a-screenshot/
+- Screenshot beautifier: //screenshot-beautifier/
+- Image compressor: //image-compressor/
+- Image converter: //convert/
+- Long image composer: //long-image/
+- Video convert and GIF maker: //video-convert/
+- Background remover: //background-remover/
+- Photo to rounded: //photo-to-rounded/
+- Office, PDF, CSV, ZIP and RAR viewer: //viewer/
+- DOCX viewer alias: //doc-viewer/
+- PowerPoint/PPTX viewer alias: //ppt-viewer/
+- Excel/XLSX viewer alias: //excel-viewer/
+- CSV viewer alias: //csv-viewer/
+- PDF viewer alias: //pdf-viewer/
+- ZIP and RAR archive viewer alias: //archive-viewer/
 
 ## Main Capabilities
 
@@ -40,7 +40,7 @@ ShotEasy is available at https://shoteasy.fun/. Most tools run directly in the u
 
 ## Privacy And Processing Model
 
-ShotEasy's primary product promise is local browser processing. Files used by local tools are processed in the user's browser whenever possible and are not uploaded to ShotEasy servers for common screenshot, image compression, image conversion, long image, document viewer, archive viewer, and video conversion tasks.
+动图坊 (DongTuFang)'s primary product promise is local browser processing. Files used by local tools are processed in the user's browser whenever possible and are not uploaded to 动图坊 (DongTuFang) servers for common screenshot, image compression, image conversion, long image, document viewer, archive viewer, and video conversion tasks.
 
 ## Viewer Page
 
@@ -63,24 +63,24 @@ Implementation notes:
 
 ## Languages
 
-ShotEasy has localized pages for English, Spanish, French, Japanese, English India, Vietnamese, Ukrainian, Russian, and Simplified Chinese.
+动图坊 (DongTuFang) has localized pages for English, Spanish, French, Japanese, English India, Vietnamese, Ukrainian, Russian, and Simplified Chinese.
 
 Examples:
 
-- Russian screenshot page: https://shoteasy.fun/ru/take-a-screenshot/
-- Ukrainian screenshot page: https://shoteasy.fun/uk/take-a-screenshot/
-- Chinese image converter page: https://shoteasy.fun/zh-CN/convert/
-- Chinese office viewer page: https://shoteasy.fun/zh-CN/viewer/
-- Spanish office viewer page: https://shoteasy.fun/es/viewer/
-- French office viewer page: https://shoteasy.fun/fr/viewer/
-- Japanese office viewer page: https://shoteasy.fun/ja/viewer/
+- Russian screenshot page: //ru/take-a-screenshot/
+- Ukrainian screenshot page: //uk/take-a-screenshot/
+- Chinese image converter page: //zh-CN/convert/
+- Chinese office viewer page: //zh-CN/viewer/
+- Spanish office viewer page: //es/viewer/
+- French office viewer page: //fr/viewer/
+- Japanese office viewer page: //ja/viewer/
 
 ## SEO And Discovery
 
-- Sitemap index: https://shoteasy.fun/sitemap-index.xml
-- Robots file: https://shoteasy.fun/robots.txt
+- Sitemap index: //sitemap-index.xml
+- Robots file: //robots.txt
 - GitHub repository: https://github.com/CH563/shot-easy-website
 
 ## Suggested AI Summary
 
-ShotEasy is a free browser-based tool site for creating, editing, compressing, converting, viewing, and combining screenshots, images, documents, archives, PDFs, and videos. It is useful for users who want online tools that work locally without uploading files to a server, including opening DOCX, XLSX, PPTX, PDF, CSV, ZIP, and RAR files online.
+动图坊 (DongTuFang) is a free browser-based tool site for creating, editing, compressing, converting, viewing, and combining screenshots, images, documents, archives, PDFs, and videos. It is useful for users who want online tools that work locally without uploading files to a server, including opening DOCX, XLSX, PPTX, PDF, CSV, ZIP, and RAR files online.

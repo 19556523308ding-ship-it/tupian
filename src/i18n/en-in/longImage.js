@@ -1,5 +1,5 @@
 export default {
-    title: 'Long Image Composer - Merge Images and PDF Pages | ShotEasy',
+    title: 'Long Image Composer - Merge Images and PDF Pages | Gif Workshop',
     description: 'Merge multiple images, convert PDF pages into one long image, and stitch PNG or JPG vertically or horizontally in your browser.',
     keywords: 'long image composer, merge images online, stitch images online, PDF to long image, combine images, PNG to long image, JPG to long image',
     tip: 'No upload, stitch images locally',

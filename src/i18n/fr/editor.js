@@ -3,14 +3,14 @@ export default {
     noSign: 'Aucune inscription requise.',
     online: 'Un moyen plus rapide de modifier des photos en ligne',
     free: 'gratuitement',
-    extension: "Obtenez l'extension ShotEasy gratuite",
+    extension: "Obtenez l'extension Atelier GIF gratuite",
     coming: 'Bientôt disponible',
     capture:
         'Capturez votre écran visible, une zone sélectionnée ou même la page complète en un seul clic.',
     instantly: "Et éditer, élevez vos captures d'écran instantanément !",
     how: "Comment prendre une capture d'écran",
     take: "Prendre une capture d'écran",
-    use: "Utilisez l'extension de navigateur ShotEasy pour capturer l'écran visible, une zone sélectionnée ou même la page complète en un seul clic. Ou téléchargez une photo depuis votre disque local et votre presse-papiers. Ou écrivez quelque chose avec markdown.",
+    use: "Utilisez l'extension de navigateur Atelier GIF pour capturer l'écran visible, une zone sélectionnée ou même la page complète en un seul clic. Ou téléchargez une photo depuis votre disque local et votre presse-papiers. Ou écrivez quelque chose avec markdown.",
     more: 'Édition plus belle',
     moreUse:
         "Utilisez notre outil pour facilement améliorer vos captures d'écran en visuels impressionnants. Ajoutez des arrière-plans personnalisés, des cadres, des ombres et des filiganes pour un look professionnel et amusant, le tout en quelques clics seulement.",

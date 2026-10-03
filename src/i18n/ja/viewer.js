@@ -1,5 +1,5 @@
 export default {
-    title: 'Word・Excel・PPTをオンラインで開く - 無料で安全なOfficeビューア | ShotEasy',
+    title: 'Word・Excel・PPTをオンラインで開く - 無料で安全なOfficeビューア | 動図坊',
     description: 'DOCX、XLSX、PPTX、CSV、PDF、ZIP、RARをオンラインで開ける無料ビューア。インストール不要で、ファイルはブラウザ内で処理されます。',
     keywords: 'docx オンライン 開く, pptx 開く オンライン, office ビューア, excel ビューア オンライン, xlsx 開く, pdf ビューア オンライン, csv ビューア, rar 解凍 オンライン, zip 解凍 オンライン, docx ビューア',
     h1: 'Word・Excel・PPTをオンラインで開く - 無料で安全なOfficeビューア',
@@ -9,7 +9,7 @@ export default {
         { title: 'Excelスプレッドシートを表示', desc: 'XLSXブック、シート、行、列、グラフ、セル書式をプレビューできます。', icon: 'Table2' },
         { title: 'PowerPointを表示', desc: 'OfficeをインストールせずにPPTXスライドをオンラインで開けます。', icon: 'Presentation' },
         { title: 'CSVファイルを表示', desc: 'CSVデータを見やすい表で確認できます。', icon: 'Rows3' },
-        { title: 'PDFファイルを表示', desc: 'ShotEasyのPDFライブラリでページをローカルにレンダリングします。', icon: 'File' },
+        { title: 'PDFファイルを表示', desc: '動図坊のPDFライブラリでページをローカルにレンダリングします。', icon: 'File' },
         { title: 'ZIP・RARを表示', desc: 'アーカイブ内のフォルダを閲覧し、対応ファイルをプレビューして抽出ファイルを保存できます。', icon: 'Archive' }
     ],
     tool: {
@@ -51,7 +51,7 @@ export default {
     supportCont1: 'DOCX、XLSX、PPTX、CSV、PDF、一般的な画像、テキスト、ZIP、RARをプレビューできます。',
     supportCont2: 'ZIPとRARはツリーまたはフォルダ表示で開き、対応ファイルを表示またはダウンロードできます。',
     seoTitle: 'DOCX、XLSX、PPTX、PDF、CSV、ZIP、RAR対応の無料オンラインOfficeビューア',
-    seoIntro: 'ShotEasy Viewerは、docx オンライン 開く、office ビューア、pptx 開く、zip 解凍 オンライン、rar 解凍 オンラインなどの検索意図に向けたローカルファイルビューアです。',
+    seoIntro: '動図坊 Viewerは、docx オンライン 開く、office ビューア、pptx 開く、zip 解凍 オンライン、rar 解凍 オンラインなどの検索意図に向けたローカルファイルビューアです。',
     featureSections: [
         { title: 'DOCXをオンラインで開く', body: 'open-sourceのoffice-open-xml-viewerを使ったCanvasベースのDOCXビューアでWord文書を表示します。' },
         { title: 'XLSXとPPTXをオンラインで開く', body: 'ExcelシートとPowerPointスライドをローカルでプレビューし、シートやスライドを切り替えられます。' },

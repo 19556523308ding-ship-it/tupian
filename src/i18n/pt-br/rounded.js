@@ -1,5 +1,5 @@
 export default {
-    title: 'Arredondar cantos de foto online e exportar PNG | ShotEasy',
+    title: 'Arredondar cantos de foto online e exportar PNG | Oficina de GIF',
     description: 'Adicione cantos arredondados a fotos online e exporte em PNG. Tudo roda localmente no navegador, sem upload.',
     tip: 'Sem upload, edição no navegador',
     online: 'Arredondar foto online',

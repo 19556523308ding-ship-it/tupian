@@ -1,5 +1,5 @@
 export default {
-    title: 'GIF Maker, Video to GIF और MP4 to GIF Converter | ShotEasy',
+    title: 'GIF Maker, Video to GIF और MP4 to GIF Converter | GIF वर्कशॉप',
     description: 'Online GIF बनाएं, video to GIF और MP4 to GIF convert करें, video compress करें, speed बदलें, audio extract करें और FFmpeg locally चलाएं.',
     keywords: 'gif maker, video to gif, mp4 to gif, online gif maker, video converter, ffmpeg wasm, compress video, trim video, extract audio',
     h1: 'GIF Maker और Video to GIF Converter',
@@ -14,7 +14,7 @@ export default {
     privacyCont1: 'Files are written only into the browser FFmpeg virtual filesystem while the conversion runs.',
     privacyCont2: 'Large videos can take time because all work happens on your computer instead of a remote server.',
     seoTitle: 'Free browser GIF maker और video converter',
-    seoIntro: 'ShotEasy Video Convert ffmpeg.wasm से powered local-first GIF maker, video to GIF converter और MP4 to GIF tool है.',
+    seoIntro: 'GIF वर्कशॉप Video Convert ffmpeg.wasm से powered local-first GIF maker, video to GIF converter और MP4 to GIF tool है.',
     featureSections: [
         {
             title: 'MP4, MOV, WebM से GIF बनाएं',

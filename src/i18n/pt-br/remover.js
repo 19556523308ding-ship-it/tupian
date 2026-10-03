@@ -1,5 +1,5 @@
 export default {
-    title: 'Remover fundo de imagem online grátis | ShotEasy',
+    title: 'Remover fundo de imagem online grátis | Oficina de GIF',
     description: 'Remova o fundo de fotos automaticamente e crie imagens transparentes no navegador. Rápido, grátis e sem cadastro.',
     tips: 'Adicione uma imagem para remover ou trocar o fundo',
     how: 'Como remover fundo de imagem?',

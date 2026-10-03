@@ -1,5 +1,5 @@
 export default {
-    title: 'Screenshot online erstellen | ShotEasy',
+    title: 'Screenshot online erstellen | Gif-Werkstatt',
     description: 'Erstellen, schneiden, kopieren und speichern Sie Screenshots direkt im Browser. Ohne Installation und ohne Upload.',
     tip: 'Kein Upload, Bearbeitung im Browser',
     how: 'Wie erstellt man online einen Screenshot?',
@@ -15,7 +15,7 @@ export default {
     whyCont2: 'Funktioniert auf Windows, macOS, Linux und modernen Browsern.',
     whyCont3: 'Kein Plugin erforderlich.',
     captureTechTitle: 'Mit der Browser Screen Capture API',
-    captureTechCont1: 'ShotEasy nutzt navigator.mediaDevices.getDisplayMedia, um die Erlaubnis zur Bildschirmaufnahme über den Browser anzufordern.',
+    captureTechCont1: 'Gif-Werkstatt nutzt navigator.mediaDevices.getDisplayMedia, um die Erlaubnis zur Bildschirmaufnahme über den Browser anzufordern.',
     captureTechCont2: 'Erfassen Sie Desktop, Tab, Chatfenster, Spiel oder App-Fenster und schneiden, kopieren oder speichern Sie lokal.',
     can: 'Kann ich auch Windows- oder macOS-Screenshot-Tools verwenden?',
     canWin: 'Screenshot unter Windows',

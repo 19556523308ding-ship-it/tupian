@@ -1,5 +1,5 @@
 export default {
-    title: 'Bulatkan Sudut Foto Online dan Export PNG | ShotEasy',
+    title: 'Bulatkan Sudut Foto Online dan Export PNG | Bengkel GIF',
     description: 'Tambahkan sudut membulat pada foto online dan export PNG secara lokal di browser, tanpa upload.',
     tip: 'Tanpa upload, edit di browser',
     online: 'Bulatkan Foto Online',

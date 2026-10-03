@@ -1,5 +1,5 @@
 export default {
-    title: 'Ouvrir Word, Excel et PPT en ligne - Visionneuse Office gratuite | ShotEasy',
+    title: 'Ouvrir Word, Excel et PPT en ligne - Visionneuse Office gratuite | Atelier GIF',
     description: 'Ouvrez DOCX, XLSX, PPTX, CSV, PDF, ZIP et RAR en ligne avec une visionneuse Office locale. Sans installation, vos fichiers restent dans le navigateur.',
     keywords: 'ouvrir docx en ligne, visionneuse office en ligne, ouvrir pptx en ligne, visionneuse excel en ligne, ouvrir xlsx en ligne, visionneuse pdf en ligne, visionneuse csv, extracteur rar en ligne, décompresser rar en ligne, décompresser zip en ligne',
     h1: 'Ouvrir Word, Excel et PPT en ligne - Visionneuse Office gratuite',
@@ -9,7 +9,7 @@ export default {
         { title: 'Afficher des feuilles Excel', desc: 'Prévisualisez les classeurs XLSX, feuilles, lignes, colonnes, graphiques et formats de cellules.', icon: 'Table2' },
         { title: 'Afficher des présentations PowerPoint', desc: 'Ouvrez des diapositives PPTX en ligne sans installer Office.', icon: 'Presentation' },
         { title: 'Afficher des fichiers CSV', desc: 'Inspectez les données CSV dans un tableau clair.', icon: 'Rows3' },
-        { title: 'Afficher des fichiers PDF', desc: 'Rendez les pages PDF localement avec la bibliothèque PDF utilisée par ShotEasy.', icon: 'File' },
+        { title: 'Afficher des fichiers PDF', desc: 'Rendez les pages PDF localement avec la bibliothèque PDF utilisée par Atelier GIF.', icon: 'File' },
         { title: 'Afficher des archives ZIP et RAR', desc: 'Parcourez les dossiers, prévisualisez les fichiers compatibles et téléchargez les éléments extraits.', icon: 'Archive' }
     ],
     tool: {
@@ -51,7 +51,7 @@ export default {
     supportCont1: 'Les aperçus pris en charge incluent DOCX, XLSX, PPTX, CSV, PDF, images courantes, fichiers texte, ZIP et RAR.',
     supportCont2: 'Les ZIP et RAR peuvent être ouverts en arborescence. Sélectionnez un fichier compatible pour le voir ou le télécharger.',
     seoTitle: 'Visionneuse Office gratuite pour DOCX, XLSX, PPTX, PDF, CSV, ZIP et RAR',
-    seoIntro: 'ShotEasy Viewer répond aux recherches comme ouvrir docx en ligne, visionneuse office, ouvrir pptx en ligne, décompresser zip en ligne et extracteur rar en ligne.',
+    seoIntro: 'Atelier GIF Viewer répond aux recherches comme ouvrir docx en ligne, visionneuse office, ouvrir pptx en ligne, décompresser zip en ligne et extracteur rar en ligne.',
     featureSections: [
         { title: 'Ouvrir DOCX en ligne', body: 'Consultez les documents Word avec une visionneuse DOCX Canvas basée sur le projet open source office-open-xml-viewer.' },
         { title: 'Ouvrir XLSX et PPTX en ligne', body: 'Prévisualisez localement les feuilles Excel et les présentations PowerPoint, avec navigation par feuilles et diapositives.' },

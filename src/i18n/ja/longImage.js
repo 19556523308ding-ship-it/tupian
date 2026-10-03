@@ -1,5 +1,5 @@
 export default {
-    title: '長い画像をオンライン結合 - PDFを長画像に変換 | ShotEasy',
+    title: '長い画像をオンライン結合 - PDFを長画像に変換 | 動図坊',
     description: '複数画像の結合、PDFページから長い画像への変換、PNGやJPGの縦横結合に対応した無料ツールです。すべてブラウザ内で処理します。',
     keywords: '長い画像 結合, 画像結合 オンライン, PDF 長画像 変換, 複数画像 結合, PNG 長画像, JPG 長画像, 縦長画像 作成, 画像連結, stitch images online, merge images online',
     tip: 'アップロード不要、ブラウザ内で画像を結合',

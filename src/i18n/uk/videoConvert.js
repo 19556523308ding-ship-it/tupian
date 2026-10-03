@@ -2,7 +2,7 @@ import en from '../en/videoConvert';
 
 export default {
     ...en,
-    title: 'GIF Maker і конвертер відео в GIF онлайн | ShotEasy',
+    title: 'GIF Maker і конвертер відео в GIF онлайн | Майстерня GIF',
     description: 'Безкоштовний GIF maker і конвертер відео: MP4 у GIF, стиснення відео, зміна швидкості, обрізка, аудіо та FFmpeg локально в браузері без завантаження.',
     keywords: 'gif maker, відео в gif, mp4 у gif, конвертер відео онлайн, стиснути відео, обрізати відео, ffmpeg wasm, video to gif Україна',
     h1: 'GIF Maker і конвертер відео в GIF',
@@ -17,7 +17,7 @@ export default {
     privacyCont1: 'Під час обробки файли записуються тільки у віртуальну файлову систему FFmpeg у браузері.',
     privacyCont2: 'Великі відео можуть оброблятися довше, бо вся робота виконується на вашому компʼютері.',
     seoTitle: 'Безкоштовний GIF maker і відеоконвертер у браузері',
-    seoIntro: 'ShotEasy Video Convert - локальний інструмент для video to GIF, MP4 у GIF і базової відеообробки на ffmpeg.wasm.',
+    seoIntro: 'Майстерня GIF Video Convert - локальний інструмент для video to GIF, MP4 у GIF і базової відеообробки на ffmpeg.wasm.',
     faqTitle: 'Питання про video to GIF і FFmpeg',
     faqs: [
         {

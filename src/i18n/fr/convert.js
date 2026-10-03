@@ -2,7 +2,7 @@ import en from '../en/convert';
 
 export default {
     ...en,
-    title: 'Convertisseur d’images en ligne - PNG en WebP, PDF en images | ShotEasy',
+    title: 'Convertisseur d’images en ligne - PNG en WebP, PDF en images | Atelier GIF',
     description: 'Convertisseur d’images gratuit en ligne pour PNG en WebP, JPG en WebP, SVG en PNG, PNG en ICO, images en PDF et PDF en images. Convertissez les fichiers localement dans votre navigateur.',
     keywords: 'convertisseur d’images en ligne, png en webp, jpg en webp, images en pdf, pdf en images, svg en png, png en ico, convertisseur d’images local',
     tip: 'Convertissez images et PDF localement dans votre navigateur. Aucun envoi, aucune inscription.',

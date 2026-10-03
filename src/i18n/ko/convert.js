@@ -1,5 +1,5 @@
 export default {
-    title: '이미지 변환 온라인 - PNG to WebP, PDF to Images | ShotEasy',
+    title: '이미지 변환 온라인 - PNG to WebP, PDF to Images | 움짤공방',
     description: 'PNG to WebP, JPG to WebP, SVG to PNG, PNG to ICO, images to PDF, PDF to images 변환을 브라우저에서 로컬로 처리하세요.',
     keywords: '이미지 변환 온라인, png to webp, jpg to webp, image to pdf, pdf to image, svg to png, png to ico',
     tip: '이미지와 PDF를 브라우저에서 로컬로 변환하세요. 업로드와 가입이 필요 없습니다.',

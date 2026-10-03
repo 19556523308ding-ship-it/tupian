@@ -1,5 +1,5 @@
 export default {
-    title: 'Screenshot Beautifier Online | ShotEasy',
+    title: 'Screenshot Beautifier Online | GIF वर्कशॉप',
     description: 'Backgrounds, device frames, shadows और layouts के साथ social media, tutorials और product pages के लिए polished screenshots बनाएं.',
     not: 'Upload नहीं, browser में editing',
     new: 'The new version, developed by LeaferJs, use it now',

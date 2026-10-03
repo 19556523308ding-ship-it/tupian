@@ -1,5 +1,5 @@
 export default {
-    title: '사진 모서리 둥글게 만들고 PNG 저장 | ShotEasy',
+    title: '사진 모서리 둥글게 만들고 PNG 저장 | 움짤공방',
     description: '사진에 둥근 모서리를 추가하고 PNG로 저장하세요. 모든 작업은 브라우저에서 로컬로 처리됩니다.',
     tip: '업로드 없이 브라우저에서 편집',
     online: '사진 모서리 둥글게 만들기',

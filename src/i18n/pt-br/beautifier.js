@@ -1,5 +1,5 @@
 export default {
-    title: 'Embelezador de screenshot online | ShotEasy',
+    title: 'Embelezador de screenshot online | Oficina de GIF',
     description: 'Crie screenshots bonitos com fundos, molduras de dispositivo, sombras e composição pronta para redes sociais, tutoriais e páginas de produto.',
     not: 'Sem upload, edição no navegador',
     new: 'The new version, developed by LeaferJs, use it now',

@@ -1,5 +1,5 @@
 export default {
-    title: '在线压缩图片 - JPG、PNG、WebP 本地压缩 | ShotEasy',
+    title: '在线压缩图片 - JPG、PNG、WebP 本地压缩 | 动图坊',
     description: '免费在线图片压缩,图片格式转换!基于 Webassembly 的压缩实现,可减小您的 WEBP、JPEG 和 PNG 图片的文件大小。',
     tip: '不会上传,使用 Webassembly 在浏览器中压缩',
     online: '在线压缩图片',
@@ -8,8 +8,8 @@ export default {
     why: '为什么要压缩图片?',
     whyCont1: '根据图片的来源,文件可能会非常大。例如,来自专业数码单反相机的 JPG 图片,可能会有几十兆字节。根据您的需求,这可能太大了。压缩这样的图片将非常有用。',
     whyCont2: '同样,您的手机上可能有大图片。这些图片可能占用了大量硬盘空间,阻止您拍摄更多照片。压缩它们可以释放更多内部存储空间,解决这个问题。',
-    vsTitle: 'ShotEasy图片压缩 vs TinyPNG图片压缩',
-    vsTitle1: 'ShotEasy图片压缩',
+    vsTitle: '动图坊图片压缩 vs TinyPNG图片压缩',
+    vsTitle1: '动图坊图片压缩',
     vsTitle2: 'TinyPNG图片压缩',
     vsCont1: '使用原生的C++库: libimagequant / libpng / zlib，编译成WebAssembly，在网页上使用。',
     vsCont2: '通过原生编码，在内存层级压缩。',

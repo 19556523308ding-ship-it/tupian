@@ -11,11 +11,11 @@ import convert from './convert';
 import viewer from './viewer';
 
 export default {
-    title: 'Editor de fotos y capturas online gratis | ShotEasy',
+    title: 'Editor de fotos y capturas online gratis | Taller de GIF',
     description:
         'Edita fotos en línea de forma gratuita, redimensiona y filtra cualquier foto, edita fotos en el navegador, convierte imágenes a jpg/png/jpeg/webp, captura fácilmente áreas o páginas completas',
     keywords:
-        'Shot Easy, easy shot, captura de pantalla, editar foto, convertidor de fotos, convertidor de imágenes, editor en línea, cambiar formato de imagen en línea, convertir imagen a jpg, jpg a webp, jpg a png',
+        'Taller de GIF, easy shot, captura de pantalla, editar foto, convertidor de fotos, convertidor de imágenes, editor en línea, cambiar formato de imagen en línea, convertir imagen a jpg, jpg a webp, jpg a png',
     privacy: 'Privacidad',
     terms: 'Términos',
     blog: 'Blog',

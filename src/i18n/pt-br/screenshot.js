@@ -1,5 +1,5 @@
 export default {
-    title: 'Fazer screenshot online grátis | ShotEasy',
+    title: 'Fazer screenshot online grátis | Oficina de GIF',
     description: 'Capture a tela online, recorte, copie e salve screenshots no navegador. Sem instalar aplicativo e sem enviar imagens para servidor.',
     tip: 'Sem upload, captura e edição no navegador',
     how: 'Como fazer screenshot online?',
@@ -15,7 +15,7 @@ export default {
     whyCont2: 'Funciona em Windows, macOS, Linux e navegadores modernos.',
     whyCont3: 'Não precisa de plugin ou extensão obrigatória.',
     captureTechTitle: 'Com a API de captura de tela do navegador',
-    captureTechCont1: 'O ShotEasy usa navigator.mediaDevices.getDisplayMedia para pedir permissão de captura diretamente ao navegador.',
+    captureTechCont1: 'O Oficina de GIF usa navigator.mediaDevices.getDisplayMedia para pedir permissão de captura diretamente ao navegador.',
     captureTechCont2: 'Você pode capturar desktop, aba, janela de chat, jogo ou aplicativo e depois recortar, copiar e salvar localmente.',
     can: 'Posso usar as ferramentas de screenshot do Windows ou macOS?',
     canWin: 'Screenshot no Windows',

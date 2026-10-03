@@ -1,5 +1,5 @@
 export default {
-    title: 'Kompres Gambar Online Gratis | ShotEasy',
+    title: 'Kompres Gambar Online Gratis | Bengkel GIF',
     description: 'Kompres JPG, PNG, WebP, GIF, SVG, dan AVIF secara lokal di browser. Kurangi ukuran gambar tanpa upload.',
     tip: 'Tanpa upload, kompres lokal dengan WebAssembly',
     online: 'Kompres Gambar Online',
@@ -8,8 +8,8 @@ export default {
     why: 'Mengapa perlu kompres gambar?',
     whyCont1: 'Depending on the source of an image, the file could be quite large. A JPG from a professional DSLR camera, for example, could be dozens of megabytes. Depending on your needs, this could be too big. Compressing this image would be very useful.',
     whyCont2: 'Likewise, you might have large images on your phone. These images could be taking up a lot of hard drive space and preventing you from taking more photos. Compressing them could free up more internal storage, fixing this problem.',
-    vsTitle: 'ShotEasy Compress vs TinyPNG',
-    vsTitle1: 'ShotEasy Compress',
+    vsTitle: 'Bengkel GIF Compress vs TinyPNG',
+    vsTitle1: 'Bengkel GIF Compress',
     vsTitle2: 'TinyPNG Compress',
     vsCont1: 'Using native C++ libraries: libimagequant / libpng / zlib, compiled into WebAssembly, used on the web.',
     vsCont2: 'Compression at the memory level through native encoding.',

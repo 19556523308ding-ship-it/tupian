@@ -15,7 +15,7 @@ export default {
     whyCont2: 'No limitado a ningún sistema, se puede usar en cualquier escenario',
     whyCont3: 'No se requieren plugins',
     captureTechTitle: 'Con la API nativa de captura de pantalla del navegador',
-    captureTechCont1: 'ShotEasy usa navigator.mediaDevices.getDisplayMedia para solicitar el permiso de captura directamente en el navegador, sin plugins ni software adicional.',
+    captureTechCont1: 'Taller de GIF usa navigator.mediaDevices.getDisplayMedia para solicitar el permiso de captura directamente en el navegador, sin plugins ni software adicional.',
     captureTechCont2: 'Puedes capturar el escritorio, una pestaña del navegador, una ventana de chat, una partida o cualquier ventana de aplicación, y luego recortar, copiar y guardar la imagen como alternativa al capturador del sistema.',
     can: '¿Puedo usar la herramienta de captura de pantalla proporcionada por Windows/MacOS?',
     canWin: 'Captura de pantalla en PC con Windows',

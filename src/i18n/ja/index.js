@@ -11,11 +11,11 @@ import convert from './convert';
 import viewer from './viewer';
 
 export default {
-    title: 'スクリーンショットと写真編集をオンラインで無料利用 | ShotEasy',
+    title: 'スクリーンショットと写真編集をオンラインで無料利用 | 動図坊',
     description:
         'オンラインで写真を無料で編集、リサイズ、フィルタリングができます。ブラウザで写真を編集、画像をjpg/png/jpeg/webpに変換、簡単に画面の一部または全体をスクリーンショットできます',
     keywords:
-        'Shot Easy、easy shot、スクリーンショット、写真編集、画像変換、オンラインエディター、オンラインで画像フォーマットを変更、画像をjpgに変換、jpgをwebpに変換、jpgをpngに変換',
+        '動図坊、easy shot、スクリーンショット、写真編集、画像変換、オンラインエディター、オンラインで画像フォーマットを変更、画像をjpgに変換、jpgをwebpに変換、jpgをpngに変換',
     privacy: 'プライバシー',
     terms: '利用規約',
     blog: 'ブログ',

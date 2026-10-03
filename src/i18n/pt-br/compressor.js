@@ -1,5 +1,5 @@
 export default {
-    title: 'Comprimir imagens online grátis | ShotEasy',
+    title: 'Comprimir imagens online grátis | Oficina de GIF',
     description: 'Comprima JPG, PNG, WebP, GIF, SVG e AVIF online no navegador. Reduza o tamanho das imagens sem upload e sem limite rígido.',
     tip: 'Sem upload, compressão local com WebAssembly',
     online: 'Comprimir imagens online',
@@ -8,8 +8,8 @@ export default {
     why: 'Por que comprimir imagens?',
     whyCont1: 'Fotos grandes deixam páginas lentas, ocupam espaço e são difíceis de compartilhar. Comprimir ajuda a manter boa qualidade com arquivos menores.',
     whyCont2: 'Também é útil para liberar armazenamento no celular ou preparar imagens para upload em sites com limite de tamanho.',
-    vsTitle: 'ShotEasy Compress vs TinyPNG',
-    vsTitle1: 'ShotEasy Compress',
+    vsTitle: 'Oficina de GIF Compress vs TinyPNG',
+    vsTitle1: 'Oficina de GIF Compress',
     vsTitle2: 'TinyPNG Compress',
     vsCont1: 'Using native C++ libraries: libimagequant / libpng / zlib, compiled into WebAssembly, used on the web.',
     vsCont2: 'Compression at the memory level through native encoding.',

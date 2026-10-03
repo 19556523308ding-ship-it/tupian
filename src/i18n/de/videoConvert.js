@@ -1,5 +1,5 @@
 export default {
-    title: 'GIF Maker, Video zu GIF und MP4 zu GIF Konverter | ShotEasy',
+    title: 'GIF Maker, Video zu GIF und MP4 zu GIF Konverter | Gif-Werkstatt',
     description: 'GIF online erstellen, Video zu GIF und MP4 zu GIF konvertieren, Video komprimieren, Tempo ändern, Audio extrahieren und FFmpeg lokal im Browser nutzen.',
     keywords: 'gif maker, video zu gif, mp4 zu gif, gif online erstellen, video konverter, ffmpeg wasm, video komprimieren, video schneiden, audio aus video extrahieren',
     h1: 'GIF Maker und Video-zu-GIF-Konverter',
@@ -14,7 +14,7 @@ export default {
     privacyCont1: 'Files are written only into the browser FFmpeg virtual filesystem while the conversion runs.',
     privacyCont2: 'Large videos can take time because all work happens on your computer instead of a remote server.',
     seoTitle: 'Kostenloser Browser GIF Maker und Videokonverter',
-    seoIntro: 'ShotEasy Video Convert ist ein lokaler GIF Maker, Video-zu-GIF-Konverter und MP4-zu-GIF-Tool mit ffmpeg.wasm.',
+    seoIntro: 'Gif-Werkstatt Video Convert ist ein lokaler GIF Maker, Video-zu-GIF-Konverter und MP4-zu-GIF-Tool mit ffmpeg.wasm.',
     featureSections: [
         {
             title: 'GIFs aus MP4, MOV, WebM und anderen Videos erstellen',

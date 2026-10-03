@@ -92,7 +92,7 @@ export default function Rounded() {
     }
 
     const toDownload = () => {
-        toDownloadFile(photoUrl, 'shotEasy.png');
+        toDownloadFile(photoUrl, 'dongtufang.png');
         messageApi.success('Download Success!');
     }
     const toCopy = () => {

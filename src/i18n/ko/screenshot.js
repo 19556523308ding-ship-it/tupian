@@ -1,5 +1,5 @@
 export default {
-    title: '온라인 스크린샷 캡처 무료 | ShotEasy',
+    title: '온라인 스크린샷 캡처 무료 | 움짤공방',
     description: '브라우저에서 온라인으로 스크린샷을 캡처, 자르기, 복사, 저장하세요. 설치와 필수 업로드가 필요 없습니다.',
     tip: '업로드 없이 브라우저에서 캡처와 편집',
     how: '온라인 스크린샷은 어떻게 찍나요?',
@@ -15,7 +15,7 @@ export default {
     whyCont2: 'Not limited to any system, can be used in any scenario',
     whyCont3: 'No plugins required',
     captureTechTitle: '브라우저 화면 캡처 API 기반',
-    captureTechCont1: 'ShotEasy uses navigator.mediaDevices.getDisplayMedia to ask the browser for screen capture permission, so no plugin or screenshot app is required.',
+    captureTechCont1: '움짤공방 uses navigator.mediaDevices.getDisplayMedia to ask the browser for screen capture permission, so no plugin or screenshot app is required.',
     captureTechCont2: 'You can capture your desktop, browser tab, chat window, game screen, or any app window, then crop, copy, and save it as a full replacement for a system screenshot tool or separate screenshot software.',
     can: 'Windows 또는 macOS 스크린샷 도구도 사용할 수 있나요?',
     canWin: 'Screenshot on Windows PC',

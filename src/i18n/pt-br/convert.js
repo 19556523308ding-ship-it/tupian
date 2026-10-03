@@ -1,5 +1,5 @@
 export default {
-    title: 'Conversor de imagem online - PNG para WebP, PDF para imagens | ShotEasy',
+    title: 'Conversor de imagem online - PNG para WebP, PDF para imagens | Oficina de GIF',
     description: 'Converta PNG para WebP, JPG para WebP, SVG para PNG, PNG para ICO, imagens para PDF e PDF para imagens localmente no navegador.',
     keywords: 'conversor de imagem online, png para webp, jpg para webp, imagem para pdf, pdf para imagem, svg para png, png para ico',
     tip: 'Converta imagens e PDFs localmente no navegador. Sem upload e sem cadastro.',

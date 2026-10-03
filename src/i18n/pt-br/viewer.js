@@ -1,5 +1,5 @@
 export default {
-    title: 'Abrir Word, Excel e PPT online - Viewer Office grátis | ShotEasy',
+    title: 'Abrir Word, Excel e PPT online - Viewer Office grátis | Oficina de GIF',
     description: 'Abra DOCX, XLSX, PPTX, CSV, PDF, ZIP e RAR online com um visualizador local no navegador. Sem instalação e sem enviar arquivos privados.',
     keywords: 'abrir docx online, abrir pptx online, visualizador office, excel online viewer, xlsx online, csv viewer, pdf viewer, zip online, rar extractor online',
     h1: 'Abrir Word, Excel e PPT online - Viewer Office grátis e seguro',
@@ -9,7 +9,7 @@ export default {
         { title: 'View Excel Spreadsheets', desc: 'Preview XLSX workbooks, sheets, rows, columns, charts, and cell formatting.', icon: 'Table2' },
         { title: 'View PowerPoint Presentations', desc: 'Open PPTX slides online and move through decks without installing Office.', icon: 'Presentation' },
         { title: 'View CSV Files', desc: 'Inspect CSV data in a clean table preview for quick spreadsheet checks.', icon: 'Rows3' },
-        { title: 'View PDF Files', desc: 'Render PDF pages locally with the same PDF library already used by ShotEasy.', icon: 'File' },
+        { title: 'View PDF Files', desc: 'Render PDF pages locally with the same PDF library already used by Oficina de GIF.', icon: 'File' },
         { title: 'View ZIP & RAR Archives', desc: 'Browse archive folders, preview supported files, and download extracted items.', icon: 'Archive' }
     ],
     tool: {
@@ -51,7 +51,7 @@ export default {
     supportCont1: 'Pré-visualizações incluem DOCX, XLSX, PPTX, CSV, PDF, imagens comuns, texto, ZIP e RAR.',
     supportCont2: 'ZIP e RAR podem ser abertos em árvore de arquivos para visualizar ou baixar itens extraídos.',
     seoTitle: 'Viewer Office online grátis para DOCX, XLSX, PPTX, PDF, CSV, ZIP e RAR',
-    seoIntro: 'O ShotEasy Viewer atende buscas como abrir docx online, office viewer, abrir pptx online, zip extractor online e rar extractor online, sem exigir Word, Excel, PowerPoint ou software de compactação.',
+    seoIntro: 'O Oficina de GIF Viewer atende buscas como abrir docx online, office viewer, abrir pptx online, zip extractor online e rar extractor online, sem exigir Word, Excel, PowerPoint ou software de compactação.',
     featureSections: [
         {
             title: 'Abrir DOCX online',

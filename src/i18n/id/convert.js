@@ -1,5 +1,5 @@
 export default {
-    title: 'Konverter Gambar Online - PNG ke WebP, PDF ke Gambar | ShotEasy',
+    title: 'Konverter Gambar Online - PNG ke WebP, PDF ke Gambar | Bengkel GIF',
     description: 'Konversi PNG ke WebP, JPG ke WebP, SVG ke PNG, PNG ke ICO, gambar ke PDF, dan PDF ke gambar secara lokal di browser.',
     keywords: 'konverter gambar online, png ke webp, jpg ke webp, gambar ke pdf, pdf ke gambar, svg ke png, png ke ico',
     tip: 'Konversi gambar dan PDF secara lokal di browser. Tanpa upload dan tanpa daftar.',

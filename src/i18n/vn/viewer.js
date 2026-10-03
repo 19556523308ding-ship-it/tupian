@@ -1,5 +1,5 @@
 export default {
-    title: 'Mở Word, Excel và PPT online - Office Viewer miễn phí | ShotEasy',
+    title: 'Mở Word, Excel và PPT online - Office Viewer miễn phí | Xưởng GIF',
     description: 'Mở DOCX, XLSX, PPTX, CSV, PDF, ZIP và RAR online bằng trình xem Office chạy cục bộ. Không cần cài đặt, tệp không rời khỏi trình duyệt.',
     keywords: 'mở docx online, office viewer online, mở pptx online, excel viewer online, mở xlsx online, pdf viewer online, csv viewer, giải nén rar online, rar extractor online, giải nén zip online',
     h1: 'Mở Word, Excel và PPT online - Office Viewer miễn phí',
@@ -9,7 +9,7 @@ export default {
         { title: 'Xem bảng tính Excel', desc: 'Xem trước workbook XLSX, sheet, hàng, cột, biểu đồ và định dạng ô.', icon: 'Table2' },
         { title: 'Xem PowerPoint', desc: 'Mở slide PPTX online mà không cần cài Microsoft Office.', icon: 'Presentation' },
         { title: 'Xem tệp CSV', desc: 'Kiểm tra dữ liệu CSV trong bảng rõ ràng.', icon: 'Rows3' },
-        { title: 'Xem tệp PDF', desc: 'Render trang PDF cục bộ bằng thư viện PDF của ShotEasy.', icon: 'File' },
+        { title: 'Xem tệp PDF', desc: 'Render trang PDF cục bộ bằng thư viện PDF của Xưởng GIF.', icon: 'File' },
         { title: 'Xem ZIP và RAR', desc: 'Duyệt thư mục archive, xem trước tệp hỗ trợ và tải tệp đã giải nén.', icon: 'Archive' }
     ],
     tool: {
@@ -51,7 +51,7 @@ export default {
     supportCont1: 'Hỗ trợ xem trước DOCX, XLSX, PPTX, CSV, PDF, ảnh phổ biến, tệp văn bản, ZIP và RAR.',
     supportCont2: 'ZIP và RAR có thể mở dạng cây archive. Chọn tệp bên trong để xem hoặc tải bản đã giải nén.',
     seoTitle: 'Office viewer online miễn phí cho DOCX, XLSX, PPTX, PDF, CSV, ZIP và RAR',
-    seoIntro: 'ShotEasy Viewer phù hợp với các tìm kiếm như mở docx online, office viewer, mở pptx online, giải nén zip online và rar extractor online.',
+    seoIntro: 'Xưởng GIF Viewer phù hợp với các tìm kiếm như mở docx online, office viewer, mở pptx online, giải nén zip online và rar extractor online.',
     featureSections: [
         { title: 'Mở DOCX online', body: 'Xem tài liệu Word bằng DOCX viewer dựa trên Canvas và dự án mã nguồn mở office-open-xml-viewer.' },
         { title: 'Mở XLSX và PPTX online', body: 'Xem trước bảng tính Excel và thuyết trình PowerPoint cục bộ, có điều hướng sheet và slide.' },

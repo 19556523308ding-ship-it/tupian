@@ -9,7 +9,7 @@ const blog = defineCollection({
         updatedDate: z.date().optional(),
         cover: z.string().optional(),
         coverAlt: z.string().optional(),
-        author: z.string().default('ShotEasy'),
+        author: z.string().default('动图坊'),
         tags: z.array(z.string()).default([]),
         draft: z.boolean().default(false)
     })

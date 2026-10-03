@@ -1,5 +1,5 @@
 export default {
-    title: 'Images Online Free Compress करें | ShotEasy',
+    title: 'Images Online Free Compress करें | GIF वर्कशॉप',
     description: 'JPG, PNG, WebP, GIF, SVG और AVIF को browser में locally compress करें. Upload किए बिना image size कम करें.',
     tip: 'Upload नहीं, WebAssembly से local compression',
     online: 'Images Online Compress करें',
@@ -8,8 +8,8 @@ export default {
     why: 'Images compress क्यों करें?',
     whyCont1: 'Large photos pages slow करती हैं, storage लेती हैं और share करना मुश्किल बनाती हैं.',
     whyCont2: 'Upload limits और storage बचाने के लिए भी useful है.',
-    vsTitle: 'ShotEasy Compress vs TinyPNG',
-    vsTitle1: 'ShotEasy Compress',
+    vsTitle: 'GIF वर्कशॉप Compress vs TinyPNG',
+    vsTitle1: 'GIF वर्कशॉप Compress',
     vsTitle2: 'TinyPNG Compress',
     vsCont1: 'Using native C++ libraries: libimagequant / libpng / zlib, compiled into WebAssembly, used on the web.',
     vsCont2: 'Compression at the memory level through native encoding.',

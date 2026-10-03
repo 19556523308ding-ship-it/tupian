@@ -1,5 +1,5 @@
 export default {
-    title: 'Criador de GIF, Vídeo para GIF e MP4 para GIF | ShotEasy',
+    title: 'Criador de GIF, Vídeo para GIF e MP4 para GIF | Oficina de GIF',
     description: 'Crie GIF online, converta vídeo para GIF, MP4 para GIF, comprima vídeo, altere velocidade, extraia áudio, corte e rode FFmpeg localmente no navegador.',
     keywords: 'criador de gif, video para gif, mp4 para gif, gif maker online, conversor de video, ffmpeg wasm, comprimir video, cortar video, extrair audio de video',
     h1: 'Criador de GIF e conversor de vídeo para GIF',
@@ -14,7 +14,7 @@ export default {
     privacyCont1: 'Files are written only into the browser FFmpeg virtual filesystem while the conversion runs.',
     privacyCont2: 'Large videos can take time because all work happens on your computer instead of a remote server.',
     seoTitle: 'Criador de GIF e conversor de vídeo grátis no navegador',
-    seoIntro: 'ShotEasy Video Convert é um gif maker local-first, conversor de vídeo para GIF e ferramenta MP4 para GIF com ffmpeg.wasm.',
+    seoIntro: 'Oficina de GIF Video Convert é um gif maker local-first, conversor de vídeo para GIF e ferramenta MP4 para GIF com ffmpeg.wasm.',
     featureSections: [
         {
             title: 'Criar GIF de MP4, MOV, WebM e outros vídeos',
@@ -49,7 +49,7 @@ export default {
         },
         {
             question: 'Este criador de GIF é privado?',
-            answer: 'Sim. O arquivo é processado localmente com ffmpeg.wasm; o ShotEasy não envia seu vídeo para servidor.'
+            answer: 'Sim. O arquivo é processado localmente com ffmpeg.wasm; o Oficina de GIF não envia seu vídeo para servidor.'
         },
         {
             question: 'Também funciona como conversor de vídeo geral?',

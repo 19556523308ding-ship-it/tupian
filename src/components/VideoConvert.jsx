@@ -631,7 +631,7 @@ export default function VideoConvert({ copy = {} }) {
         if (!output) return;
         const anchor = document.createElement('a');
         anchor.href = output.url;
-        anchor.download = `shoteasy-output.${output.ext}`;
+        anchor.download = `dongtufang-output.${output.ext}`;
         anchor.click();
     };
 

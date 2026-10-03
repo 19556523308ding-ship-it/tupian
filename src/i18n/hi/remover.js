@@ -1,5 +1,5 @@
 export default {
-    title: 'Image Background Online Free Remove करें | ShotEasy',
+    title: 'Image Background Online Free Remove करें | GIF वर्कशॉप',
     description: 'Photo background automatically remove करें और browser में transparent images बनाएं. Fast, free, no signup.',
     tips: 'Background remove या replace करने के लिए image add करें',
     how: 'Image background कैसे remove करें?',

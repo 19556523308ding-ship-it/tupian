@@ -1,5 +1,5 @@
 export default {
-    title: '在线图片格式转换 - PNG转WebP、PDF转图片 | ShotEasy',
+    title: '在线图片格式转换 - PNG转WebP、PDF转图片 | 动图坊',
     description: '免费在线图片格式转换工具，支持 PNG转WebP、JPG转WebP、多图片转PDF、PDF转图片、SVG转PNG、PNG转ICO，全部在浏览器本地完成。',
     keywords: '图片格式转换, PNG转WebP, JPG转WebP, 多图片转PDF, PDF转图片, SVG转PNG, PNG转ICO, 在线图片转换, 本地图片转换',
     tip: '图片和 PDF 在浏览器本地转换，无需上传、无需注册。',

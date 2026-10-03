@@ -7,7 +7,7 @@ coverAlt: "Browser screenshot capture interface with crop handles"
 tags: ["screenshot", "screen capture api", "browser tools"]
 ---
 
-Online screenshot tools feel simple from the outside: click capture, choose a screen, crop the image, then copy or download the result. [ShotEasy Screenshot Tool](/take-a-screenshot/) uses this browser-first flow so you can create a screenshot without installing a desktop app.
+Online screenshot tools feel simple from the outside: click capture, choose a screen, crop the image, then copy or download the result. [Gif Workshop Screenshot Tool](/take-a-screenshot/) uses this browser-first flow so you can create a screenshot without installing a desktop app.
 
 The core technology is the Screen Capture API. It extends the browser's media capture capabilities so a website can ask the user to select a display surface, such as a browser tab, application window, or screen. The browser then returns a media stream that the page can preview, record, or convert into an image.
 
@@ -37,7 +37,7 @@ After the browser provides the stream, the screenshot tool can process the image
 - Removing private or unnecessary parts
 - Exporting the final image for copy or download
 
-ShotEasy keeps this workflow focused on practical screenshot tasks. The goal is to capture the screen, trim the image, and export a clean result without sending users through a heavy editing app. For publishing workflows, the result can also be reduced with the [Image Compressor](/image-compressor/).
+Gif Workshop keeps this workflow focused on practical screenshot tasks. The goal is to capture the screen, trim the image, and export a clean result without sending users through a heavy editing app. For publishing workflows, the result can also be reduced with the [Image Compressor](/image-compressor/).
 
 ## Privacy and limitations
 

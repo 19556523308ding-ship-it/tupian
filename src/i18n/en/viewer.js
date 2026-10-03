@@ -1,5 +1,5 @@
 export default {
-    title: 'Open Word, Excel & PPT Online - Free & Secure Office Viewer | ShotEasy',
+    title: 'Open Word, Excel & PPT Online - Free & Secure Office Viewer | Gif Workshop',
     description: 'Open DOCX, XLSX, PPTX, CSV, PDF, ZIP, and RAR files online with a free local-first office viewer. No installation required and your files never leave your browser.',
     keywords: 'open docx online, rar extractor online, office viewer, pptx open, open pptx online, excel viewer online, open xlsx online, csv viewer online, pdf viewer online, zip extractor online, docx viewer online',
     h1: 'Open Word, Excel & PPT Online - Free & Secure Office Viewer',
@@ -9,7 +9,7 @@ export default {
         { title: 'View Excel Spreadsheets', desc: 'Preview XLSX workbooks, sheets, rows, columns, charts, and cell formatting.', icon: 'Table2' },
         { title: 'View PowerPoint Presentations', desc: 'Open PPTX slides online and move through decks without installing Office.', icon: 'Presentation' },
         { title: 'View CSV Files', desc: 'Inspect CSV data in a clean table preview for quick spreadsheet checks.', icon: 'Rows3' },
-        { title: 'View PDF Files', desc: 'Render PDF pages locally with the same PDF library already used by ShotEasy.', icon: 'File' },
+        { title: 'View PDF Files', desc: 'Render PDF pages locally with the same PDF library already used by Gif Workshop.', icon: 'File' },
         { title: 'View ZIP & RAR Archives', desc: 'Browse archive folders, preview supported files, and download extracted items.', icon: 'Archive' }
     ],
     tool: {
@@ -51,7 +51,7 @@ export default {
     supportCont1: 'Supported previews include DOCX, XLSX, PPTX, CSV, PDF, common images, text files, ZIP archives, and RAR archives.',
     supportCont2: 'ZIP and RAR files can be opened as an archive tree. Select supported files inside the archive to view them or download extracted copies.',
     seoTitle: 'Free online office viewer for DOCX, XLSX, PPTX, PDF, CSV, ZIP and RAR',
-    seoIntro: 'ShotEasy Viewer is built for common searches like open docx online, office viewer, pptx open, zip extractor online, and rar extractor online. It helps you inspect documents quickly without installing Word, Excel, PowerPoint, Acrobat, or archive software.',
+    seoIntro: 'Gif Workshop Viewer is built for common searches like open docx online, office viewer, pptx open, zip extractor online, and rar extractor online. It helps you inspect documents quickly without installing Word, Excel, PowerPoint, Acrobat, or archive software.',
     featureSections: [
         {
             title: 'Open DOCX online',

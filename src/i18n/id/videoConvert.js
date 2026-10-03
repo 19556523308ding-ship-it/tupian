@@ -1,5 +1,5 @@
 export default {
-    title: 'GIF Maker, Video ke GIF & MP4 ke GIF Converter | ShotEasy',
+    title: 'GIF Maker, Video ke GIF & MP4 ke GIF Converter | Bengkel GIF',
     description: 'Buat GIF online, konversi video ke GIF, MP4 ke GIF, kompres video, ubah speed, ekstrak audio, crop, trim, dan jalankan FFmpeg lokal.',
     keywords: 'gif maker, video ke gif, mp4 ke gif, gif maker online, konverter video, ffmpeg wasm, kompres video, trim video, ekstrak audio',
     h1: 'GIF Maker dan Konverter Video ke GIF',
@@ -14,7 +14,7 @@ export default {
     privacyCont1: 'Files are written only into the browser FFmpeg virtual filesystem while the conversion runs.',
     privacyCont2: 'Large videos can take time because all work happens on your computer instead of a remote server.',
     seoTitle: 'GIF maker dan konverter video gratis di browser',
-    seoIntro: 'ShotEasy Video Convert adalah GIF maker local-first, video to GIF converter, dan MP4 to GIF tool berbasis ffmpeg.wasm.',
+    seoIntro: 'Bengkel GIF Video Convert adalah GIF maker local-first, video to GIF converter, dan MP4 to GIF tool berbasis ffmpeg.wasm.',
     featureSections: [
         {
             title: 'Buat GIF dari MP4, MOV, WebM, dan video lain',

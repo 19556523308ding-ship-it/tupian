@@ -1,5 +1,5 @@
 export default {
-    title: 'Remove Image Background Online Free | ShotEasy',
+    title: 'Remove Image Background Online Free | Gif Workshop',
     description: 'Remove photo backgrounds automatically and create transparent images in your browser. Fast, free, and no signup required.',
     tips: 'Add an image to remove or replace the background',
     how: 'How to remove an image background?',

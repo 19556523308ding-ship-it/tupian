@@ -1,5 +1,5 @@
 export default {
-    title: 'GIF Maker、Video to GIF、MP4 to GIF 在线转换 | ShotEasy',
+    title: 'GIF Maker、Video to GIF、MP4 to GIF 在线转换 | 动图坊',
     description: '免费在线 GIF maker 和 video to gif 转换工具，支持 MP4 to GIF、视频压缩、变速、裁剪、提取音频和 FFmpeg 本地处理。',
     keywords: 'gif maker, video to gif, mp4 to gif, 在线 GIF 制作, 视频转 GIF, MP4 转 GIF, 视频转换, ffmpeg wasm, 浏览器视频编辑, 视频压缩, 视频裁剪, 提取视频音频',
     h1: 'GIF Maker 和 Video to GIF 在线转换',
@@ -14,7 +14,7 @@ export default {
     privacyCont1: '转换时文件只会写入浏览器里的 FFmpeg 虚拟文件系统。',
     privacyCont2: '因为所有处理都在本机完成，大视频可能需要更长时间。',
     seoTitle: '免费的浏览器 GIF maker 和视频转换工具',
-    seoIntro: 'ShotEasy Video Convert 是基于 ffmpeg.wasm 的本地优先 gif maker、video to gif 和 MP4 to GIF 工具。它参考 ffmpeg-webCLI 的工作流，覆盖常见视频处理场景，同时让文件保留在当前浏览器中。',
+    seoIntro: '动图坊 Video Convert 是基于 ffmpeg.wasm 的本地优先 gif maker、video to gif 和 MP4 to GIF 工具。它参考 ffmpeg-webCLI 的工作流，覆盖常见视频处理场景，同时让文件保留在当前浏览器中。',
     featureSections: [
         {
             title: '把 MP4、MOV、WebM 等视频制作成 GIF',
@@ -49,7 +49,7 @@ export default {
         },
         {
             question: '这个 GIF maker 会上传我的视频吗？',
-            answer: '不会。ShotEasy 使用 ffmpeg.wasm 在浏览器本地处理文件，视频不会上传到转换服务器。'
+            answer: '不会。动图坊 使用 ffmpeg.wasm 在浏览器本地处理文件，视频不会上传到转换服务器。'
         },
         {
             question: '它只能做 video to gif 吗？',

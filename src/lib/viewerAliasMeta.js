@@ -200,7 +200,7 @@ export const getViewerAliasMeta = (viewer, alias, locale = 'en') => {
   const subtitle = routeSubtitles[normalizedLocale]?.[alias] || routeSubtitles.en[alias];
 
   return {
-    title: `${term} - ${benefit} | ShotEasy`,
+    title: `${term} - ${benefit} | 动图坊`,
     h1: `${term} - ${benefit}`,
     tip: subtitle,
     description: `${term}. ${intro} ${viewer.description}`,

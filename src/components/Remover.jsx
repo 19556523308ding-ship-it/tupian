@@ -166,7 +166,7 @@ export default function Remover() {
     const toDownload = () => {
         if (loading) return messageApi.info('Working hard, please wait!');
         const imgbase64 = toDraw(photoData, bgColor);
-        toDownloadFile(imgbase64, 'shotEasy.png');
+        toDownloadFile(imgbase64, 'dongtufang.png');
         messageApi.success('Download Success!');
     }
     const toCopy = () => {

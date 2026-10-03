@@ -1,5 +1,5 @@
 export default {
-    title: 'Langbild online erstellen - Bilder und PDF zusammenfügen | ShotEasy',
+    title: 'Langbild online erstellen - Bilder und PDF zusammenfügen | Gif-Werkstatt',
     description: 'Fügen Sie mehrere Bilder zusammen, wandeln Sie PDF-Seiten in ein Langbild um und verbinden Sie PNG oder JPG vertikal oder horizontal im Browser.',
     keywords: 'langbild erstellen, bilder online zusammenfügen, pdf zu langbild, bilder verbinden, png zusammenfügen, jpg zusammenfügen',
     tip: 'Kein Upload, Bilder lokal zusammenfügen',

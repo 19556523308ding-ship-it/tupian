@@ -2,12 +2,12 @@ import en from '../en/videoConvert';
 
 export default {
     ...en,
-    title: 'GIF Maker, Video to GIF & MP4 to GIF Converter | ShotEasy',
+    title: 'GIF Maker, Video to GIF & MP4 to GIF Converter | Gif Workshop',
     description: 'Make GIFs online, convert video to GIF, MP4 to GIF, compress video, change speed, extract audio, crop, trim, and run FFmpeg locally.',
     keywords: 'gif maker, video to gif, mp4 to gif, online gif maker, video converter, ffmpeg wasm, compress video, trim video, extract audio from video',
     h1: 'GIF Maker and Video to GIF Converter',
     tip: 'Convert MP4 to GIF, make GIFs from video, compress clips, and edit media locally with ffmpeg.wasm. No upload.',
-    seoIntro: 'ShotEasy Video Convert is a local-first GIF maker, video to GIF converter, and MP4 to GIF tool powered by ffmpeg.wasm.',
+    seoIntro: 'Gif Workshop Video Convert is a local-first GIF maker, video to GIF converter, and MP4 to GIF tool powered by ffmpeg.wasm.',
     tool: {
         ...en.tool,
         upload: 'Click or drag video/audio here',

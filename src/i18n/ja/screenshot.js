@@ -1,5 +1,5 @@
 export default {
-    title: 'スクリーンショットをオンラインで撮影・編集 | ShotEasy',
+    title: 'スクリーンショットをオンラインで撮影・編集 | 動図坊',
     description: 'スクリーンショットを撮影し、オンラインで編集する',
     tip: 'アップロードせずにブラウザ内で編集',
     how: 'オンラインでスクリーンショットを撮るには？',
@@ -15,7 +15,7 @@ export default {
     whyCont2: 'システムに制限されず、あらゆるシナリオで使用可能',
     whyCont3: 'プラグイン不要',
     captureTechTitle: 'ブラウザ標準の画面キャプチャ API を使用',
-    captureTechCont1: 'ShotEasy は navigator.mediaDevices.getDisplayMedia を使い、ブラウザから直接画面キャプチャの許可を取得します。プラグインや別のスクリーンショットアプリは不要です。',
+    captureTechCont1: '動図坊 は navigator.mediaDevices.getDisplayMedia を使い、ブラウザから直接画面キャプチャの許可を取得します。プラグインや別のスクリーンショットアプリは不要です。',
     captureTechCont2: 'デスクトップ、ブラウザタブ、チャット画面、ゲーム画面、任意のアプリウィンドウを撮影し、そのまま切り抜き、コピー、保存できます。OS 標準のスクリーンショット機能の代わりとして使えます。',
     can: 'Windows/MacOSが提供するスクリーンショットツールを使用できますか？',
     canWin: 'WindowsPCでのスクリーンショット',

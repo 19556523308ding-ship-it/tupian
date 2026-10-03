@@ -134,7 +134,7 @@ class ScreenshotState {
     }
 
     downloadFile() {
-        toDownloadFile(this.imageSrc, 'shoteasy-screenshot.png');
+        toDownloadFile(this.imageSrc, 'dongtufang-screenshot.png');
     }
 
     async copyFile() {

@@ -1,5 +1,5 @@
 export default {
-    title: 'Take Screenshot Online Free | ShotEasy',
+    title: 'Take Screenshot Online Free | Gif Workshop',
     description: 'Capture screenshots online, crop, copy, and save them in your browser. No app install, no mandatory upload, and works on modern browsers.',
     tip: 'No upload, screenshot and edit in browser',
     how: 'How to take a screenshot online?',
@@ -15,7 +15,7 @@ export default {
     whyCont2: 'Works across Windows, macOS, Linux, and modern browsers.',
     whyCont3: 'No plugin is required.',
     captureTechTitle: 'Powered by the browser screen capture API',
-    captureTechCont1: 'ShotEasy uses navigator.mediaDevices.getDisplayMedia to request screen capture permission through the browser.',
+    captureTechCont1: 'Gif Workshop uses navigator.mediaDevices.getDisplayMedia to request screen capture permission through the browser.',
     captureTechCont2: 'Capture a desktop, tab, chat window, app window, or game screen, then crop, copy, and save locally.',
     can: 'Can I use Windows or macOS screenshot tools too?',
     canWin: 'Screenshot on Windows',

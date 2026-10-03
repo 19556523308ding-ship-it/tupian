@@ -1,5 +1,5 @@
 export default {
-    title: 'Criar imagem longa online - juntar imagens e PDF | ShotEasy',
+    title: 'Criar imagem longa online - juntar imagens e PDF | Oficina de GIF',
     description: 'Junte várias imagens, transforme páginas de PDF em uma imagem longa e costure PNG ou JPG na vertical ou horizontal direto no navegador.',
     keywords: 'imagem longa online, juntar imagens online, unir imagens, pdf para imagem longa, costurar imagens, juntar png, juntar jpg, imagem vertical longa',
     tip: 'Sem upload, una imagens localmente no navegador',

@@ -1,5 +1,5 @@
 export default {
-    title: "Assembler des images en ligne - PDF en image longue | ShotEasy",
+    title: "Assembler des images en ligne - PDF en image longue | Atelier GIF",
     description: "Outil gratuit pour assembler plusieurs images, convertir un PDF en image longue et fusionner PNG ou JPG verticalement ou horizontalement dans le navigateur.",
     keywords: "assembler des images, fusionner images en ligne, image longue, PDF en image longue, assembler PNG, assembler JPG, créer une image longue, stitch images online, merge images online",
     tip: 'Aucun envoi, assemblage local dans votre navigateur',

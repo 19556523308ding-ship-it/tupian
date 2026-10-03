@@ -1,5 +1,5 @@
 export default {
-    title: 'Hapus Background Gambar Online Gratis | ShotEasy',
+    title: 'Hapus Background Gambar Online Gratis | Bengkel GIF',
     description: 'Hapus background foto otomatis dan buat gambar transparan di browser. Cepat, gratis, dan tanpa daftar.',
     tips: 'Tambahkan gambar untuk menghapus atau mengganti background',
     how: 'Bagaimana cara menghapus background gambar?',

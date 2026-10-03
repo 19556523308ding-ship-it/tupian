@@ -9,7 +9,7 @@ tags: ["image compression", "web performance", "seo"]
 
 Large images are one of the easiest ways to slow down a website. They affect page load time, Core Web Vitals, mobile experience, and the amount of data visitors need to download.
 
-[ShotEasy Image Compressor](/image-compressor/) helps reduce file size before you upload images to your website, blog, store, landing page, or help center.
+[Gif Workshop Image Compressor](/image-compressor/) helps reduce file size before you upload images to your website, blog, store, landing page, or help center.
 
 ## Why image compression matters
 
@@ -19,7 +19,7 @@ Compression is especially important for mobile traffic, where bandwidth and CPU 
 
 ## Browser-based compression
 
-ShotEasy uses browser-side processing for common image compression workflows. That means you can prepare assets quickly without sending every image through a server queue.
+Gif Workshop uses browser-side processing for common image compression workflows. That means you can prepare assets quickly without sending every image through a server queue.
 
 The tool is useful for JPG, PNG, WebP, GIF, SVG, and AVIF workflows, especially when you need to process multiple images before publishing.
 

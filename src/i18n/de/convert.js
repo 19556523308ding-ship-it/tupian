@@ -1,5 +1,5 @@
 export default {
-    title: 'Bildkonverter online - PNG zu WebP, PDF zu Bildern | ShotEasy',
+    title: 'Bildkonverter online - PNG zu WebP, PDF zu Bildern | Gif-Werkstatt',
     description: 'Konvertieren Sie PNG zu WebP, JPG zu WebP, SVG zu PNG, PNG zu ICO, Bilder zu PDF und PDF zu Bildern lokal im Browser.',
     keywords: 'bildkonverter online, png zu webp, jpg zu webp, bild zu pdf, pdf zu bild, svg zu png, png zu ico',
     tip: 'Bilder und PDFs lokal im Browser konvertieren. Kein Upload, keine Anmeldung.',

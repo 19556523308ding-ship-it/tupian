@@ -470,12 +470,12 @@ export default function ConvertTool({ copy = {} }) {
         }
 
         const output = outputWithUrl({
-            name: 'shoteasy-images.pdf',
+            name: 'dongtufang-images.pdf',
             blob,
             type: 'application/pdf',
             size: blob.size,
             pageCount: pdfItems.length,
-        }, 'shoteasy-images.pdf');
+        }, 'dongtufang-images.pdf');
 
         const outputItemId = pdfItems[0].id;
         return preparedItems.map((item) => {
@@ -574,7 +574,7 @@ export default function ConvertTool({ copy = {} }) {
         }
         setLoading(true);
         try {
-            await zipOutputs(outputs, 'shoteasy-converted-files.zip');
+            await zipOutputs(outputs, 'dongtufang-converted-files.zip');
             messageApi.success('Download Success!');
         } finally {
             setLoading(false);

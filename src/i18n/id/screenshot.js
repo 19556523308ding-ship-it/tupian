@@ -1,5 +1,5 @@
 export default {
-    title: 'Ambil Screenshot Online Gratis | ShotEasy',
+    title: 'Ambil Screenshot Online Gratis | Bengkel GIF',
     description: 'Ambil screenshot online, crop, copy, dan simpan di browser. Tanpa instal aplikasi dan tanpa wajib upload.',
     tip: 'Tanpa upload, screenshot dan edit di browser',
     how: 'Bagaimana cara mengambil screenshot online?',
@@ -15,7 +15,7 @@ export default {
     whyCont2: 'Not limited to any system, can be used in any scenario',
     whyCont3: 'No plugins required',
     captureTechTitle: 'Didukung Browser Screen Capture API',
-    captureTechCont1: 'ShotEasy uses navigator.mediaDevices.getDisplayMedia to ask the browser for screen capture permission, so no plugin or screenshot app is required.',
+    captureTechCont1: 'Bengkel GIF uses navigator.mediaDevices.getDisplayMedia to ask the browser for screen capture permission, so no plugin or screenshot app is required.',
     captureTechCont2: 'You can capture your desktop, browser tab, chat window, game screen, or any app window, then crop, copy, and save it as a full replacement for a system screenshot tool or separate screenshot software.',
     can: 'Bisakah memakai alat screenshot Windows atau macOS juga?',
     canWin: 'Screenshot on Windows PC',

@@ -1,5 +1,5 @@
 export default {
-    title: 'Word, Excel und PPT online öffnen - kostenloser Office Viewer | ShotEasy',
+    title: 'Word, Excel und PPT online öffnen - kostenloser Office Viewer | Gif-Werkstatt',
     description: 'Öffnen Sie DOCX, XLSX, PPTX, CSV, PDF, ZIP und RAR online mit einem lokalen Browser-Viewer. Keine Installation, private Dateien bleiben im Browser.',
     keywords: 'docx online öffnen, pptx online öffnen, office viewer, excel viewer online, xlsx online, csv viewer, pdf viewer, zip online, rar extractor online',
     h1: 'Word, Excel und PPT online öffnen - kostenloser sicherer Office Viewer',
@@ -9,7 +9,7 @@ export default {
         { title: 'View Excel Spreadsheets', desc: 'Preview XLSX workbooks, sheets, rows, columns, charts, and cell formatting.', icon: 'Table2' },
         { title: 'View PowerPoint Presentations', desc: 'Open PPTX slides online and move through decks without installing Office.', icon: 'Presentation' },
         { title: 'View CSV Files', desc: 'Inspect CSV data in a clean table preview for quick spreadsheet checks.', icon: 'Rows3' },
-        { title: 'View PDF Files', desc: 'Render PDF pages locally with the same PDF library already used by ShotEasy.', icon: 'File' },
+        { title: 'View PDF Files', desc: 'Render PDF pages locally with the same PDF library already used by Gif-Werkstatt.', icon: 'File' },
         { title: 'View ZIP & RAR Archives', desc: 'Browse archive folders, preview supported files, and download extracted items.', icon: 'Archive' }
     ],
     tool: {
@@ -51,7 +51,7 @@ export default {
     supportCont1: 'Vorschau für DOCX, XLSX, PPTX, CSV, PDF, Bilder, Textdateien, ZIP und RAR.',
     supportCont2: 'ZIP und RAR können als Archivbaum geöffnet werden, um Dateien anzusehen oder zu extrahieren.',
     seoTitle: 'Kostenloser Online Office Viewer für DOCX, XLSX, PPTX, PDF, CSV, ZIP und RAR',
-    seoIntro: 'ShotEasy Viewer hilft bei Suchen wie DOCX online öffnen, Office Viewer, PPTX öffnen, ZIP online entpacken und RAR Extractor online.',
+    seoIntro: 'Gif-Werkstatt Viewer hilft bei Suchen wie DOCX online öffnen, Office Viewer, PPTX öffnen, ZIP online entpacken und RAR Extractor online.',
     featureSections: [
         {
             title: 'DOCX online öffnen',

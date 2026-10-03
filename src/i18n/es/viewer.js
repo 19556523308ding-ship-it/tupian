@@ -1,5 +1,5 @@
 export default {
-    title: 'Abrir Word, Excel y PPT online - Visor Office gratis y seguro | ShotEasy',
+    title: 'Abrir Word, Excel y PPT online - Visor Office gratis y seguro | Taller de GIF',
     description: 'Abre archivos DOCX, XLSX, PPTX, CSV, PDF, ZIP y RAR online con un visor Office local. Sin instalación: tus archivos no salen del navegador.',
     keywords: 'abrir docx online, visor office online, abrir pptx online, visor excel online, abrir xlsx online, visor pdf online, visor csv online, descomprimir rar online, extractor rar online, descomprimir zip online',
     h1: 'Abrir Word, Excel y PPT online - Visor Office gratis y seguro',
@@ -9,7 +9,7 @@ export default {
         { title: 'Ver hojas de cálculo Excel', desc: 'Previsualiza libros XLSX, hojas, filas, columnas, gráficos y formato de celdas.', icon: 'Table2' },
         { title: 'Ver presentaciones PowerPoint', desc: 'Abre diapositivas PPTX online sin instalar Microsoft Office.', icon: 'Presentation' },
         { title: 'Ver archivos CSV', desc: 'Revisa datos CSV en una tabla clara para comprobaciones rápidas.', icon: 'Rows3' },
-        { title: 'Ver archivos PDF', desc: 'Renderiza páginas PDF localmente con la biblioteca PDF usada por ShotEasy.', icon: 'File' },
+        { title: 'Ver archivos PDF', desc: 'Renderiza páginas PDF localmente con la biblioteca PDF usada por Taller de GIF.', icon: 'File' },
         { title: 'Ver archivos ZIP y RAR', desc: 'Explora carpetas del archivo, previsualiza elementos compatibles y descarga archivos extraídos.', icon: 'Archive' }
     ],
     tool: {
@@ -51,7 +51,7 @@ export default {
     supportCont1: 'Las vistas previas compatibles incluyen DOCX, XLSX, PPTX, CSV, PDF, imágenes comunes, archivos de texto, ZIP y RAR.',
     supportCont2: 'ZIP y RAR se pueden abrir como árbol de archivos. Selecciona elementos compatibles para verlos o descargar copias extraídas.',
     seoTitle: 'Visor Office online gratis para DOCX, XLSX, PPTX, PDF, CSV, ZIP y RAR',
-    seoIntro: 'ShotEasy Viewer está pensado para búsquedas como abrir docx online, visor office, abrir pptx online, descomprimir zip online y extractor rar online. Te ayuda a revisar documentos sin instalar Word, Excel, PowerPoint, Acrobat ni software de compresión.',
+    seoIntro: 'Taller de GIF Viewer está pensado para búsquedas como abrir docx online, visor office, abrir pptx online, descomprimir zip online y extractor rar online. Te ayuda a revisar documentos sin instalar Word, Excel, PowerPoint, Acrobat ni software de compresión.',
     featureSections: [
         { title: 'Abrir DOCX online', body: 'Visualiza documentos Word con un visor DOCX basado en Canvas y el proyecto open source office-open-xml-viewer.' },
         { title: 'Abrir XLSX y PPTX online', body: 'Previsualiza hojas Excel y presentaciones PowerPoint localmente, con navegación por hojas y diapositivas.' },

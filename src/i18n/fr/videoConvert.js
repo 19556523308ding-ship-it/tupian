@@ -2,7 +2,7 @@ import en from '../en/videoConvert';
 
 export default {
     ...en,
-    title: 'Créateur de GIF, Video to GIF et MP4 to GIF | ShotEasy',
+    title: 'Créateur de GIF, Video to GIF et MP4 to GIF | Atelier GIF',
     description: 'Créateur de GIF gratuit et convertisseur video to GIF. Convertissez MP4 en GIF, compressez, changez la vitesse, extrayez audio, recadrez et utilisez FFmpeg dans le navigateur.',
     keywords: 'gif maker, créateur de gif, video to gif, vidéo en gif, mp4 to gif, mp4 en gif, convertisseur vidéo, ffmpeg wasm, compresser vidéo, recadrer vidéo, extraire audio vidéo',
     h1: 'Créateur de GIF et convertisseur vidéo en GIF',
@@ -17,7 +17,7 @@ export default {
     privacyCont1: 'Les fichiers sont écrits uniquement dans le système de fichiers virtuel FFmpeg du navigateur pendant la conversion.',
     privacyCont2: 'Les grandes vidéos peuvent prendre du temps car tout se fait sur votre ordinateur plutôt que sur un serveur distant.',
     seoTitle: 'Créateur de GIF et convertisseur vidéo gratuit dans le navigateur',
-    seoIntro: 'ShotEasy Video Convert est un créateur de GIF local, un convertisseur video to GIF et un outil MP4 to GIF propulsé par ffmpeg.wasm. Il reprend les flux pratiques de ffmpeg-webCLI tout en gardant les fichiers dans le navigateur.',
+    seoIntro: 'Atelier GIF Video Convert est un créateur de GIF local, un convertisseur video to GIF et un outil MP4 to GIF propulsé par ffmpeg.wasm. Il reprend les flux pratiques de ffmpeg-webCLI tout en gardant les fichiers dans le navigateur.',
     featureSections: [
         {
             title: 'Créez des GIF depuis MP4, MOV, WebM et autres vidéos',
@@ -52,7 +52,7 @@ export default {
         },
         {
             question: 'Ce créateur de GIF est-il privé ?',
-            answer: 'Oui. Le fichier est traité localement dans votre navigateur avec ffmpeg.wasm. ShotEasy n’envoie pas votre vidéo vers un serveur de conversion.'
+            answer: 'Oui. Le fichier est traité localement dans votre navigateur avec ffmpeg.wasm. Atelier GIF n’envoie pas votre vidéo vers un serveur de conversion.'
         },
         {
             question: 'Puis-je l’utiliser comme convertisseur vidéo général ?',

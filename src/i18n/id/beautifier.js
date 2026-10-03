@@ -1,5 +1,5 @@
 export default {
-    title: 'Percantik Screenshot Online | ShotEasy',
+    title: 'Percantik Screenshot Online | Bengkel GIF',
     description: 'Buat screenshot rapi dengan latar, frame perangkat, bayangan, dan layout untuk media sosial, tutorial, dan halaman produk.',
     not: 'Tanpa upload, edit di browser',
     new: 'The new version, developed by LeaferJs, use it now',

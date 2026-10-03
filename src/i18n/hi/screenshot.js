@@ -1,5 +1,5 @@
 export default {
-    title: 'Screenshot Online Free लें | ShotEasy',
+    title: 'Screenshot Online Free लें | GIF वर्कशॉप',
     description: 'Browser में online screenshot capture, crop, copy और save करें. App install नहीं, upload जरूरी नहीं.',
     tip: 'Upload नहीं, screenshot और editing browser में',
     how: 'Online screenshot कैसे लें?',
@@ -15,7 +15,7 @@ export default {
     whyCont2: 'Windows, macOS, Linux और modern browsers पर काम करता है.',
     whyCont3: 'Plugin की जरूरत नहीं.',
     captureTechTitle: 'Browser screen capture API से powered',
-    captureTechCont1: 'ShotEasy browser से screen capture permission लेने के लिए navigator.mediaDevices.getDisplayMedia इस्तेमाल करता है.',
+    captureTechCont1: 'GIF वर्कशॉप browser से screen capture permission लेने के लिए navigator.mediaDevices.getDisplayMedia इस्तेमाल करता है.',
     captureTechCont2: 'Desktop, tab, chat window, app या game screen capture करें और locally crop, copy, save करें.',
     can: 'क्या Windows या macOS screenshot tools भी इस्तेमाल कर सकते हैं?',
     canWin: 'Windows पर screenshot',

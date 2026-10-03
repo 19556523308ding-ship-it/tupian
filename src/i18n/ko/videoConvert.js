@@ -1,5 +1,5 @@
 export default {
-    title: 'GIF Maker, Video to GIF & MP4 to GIF 변환기 | ShotEasy',
+    title: 'GIF Maker, Video to GIF & MP4 to GIF 변환기 | 움짤공방',
     description: '온라인 GIF 만들기, video to GIF, MP4 to GIF 변환, 비디오 압축, 속도 변경, 오디오 추출, FFmpeg 로컬 실행을 지원합니다.',
     keywords: 'gif maker, video to gif, mp4 to gif, online gif maker, video converter, ffmpeg wasm, compress video, trim video, extract audio',
     h1: 'GIF Maker와 Video to GIF 변환기',
@@ -14,7 +14,7 @@ export default {
     privacyCont1: 'Files are written only into the browser FFmpeg virtual filesystem while the conversion runs.',
     privacyCont2: 'Large videos can take time because all work happens on your computer instead of a remote server.',
     seoTitle: '무료 브라우저 GIF Maker와 비디오 변환기',
-    seoIntro: 'ShotEasy Video Convert는 ffmpeg.wasm 기반의 로컬 우선 GIF maker, video to GIF, MP4 to GIF 도구입니다.',
+    seoIntro: '움짤공방 Video Convert는 ffmpeg.wasm 기반의 로컬 우선 GIF maker, video to GIF, MP4 to GIF 도구입니다.',
     featureSections: [
         {
             title: 'MP4, MOV, WebM에서 GIF 만들기',

@@ -1,5 +1,5 @@
 export default {
-    title: '이미지 압축 온라인 무료 | ShotEasy',
+    title: '이미지 압축 온라인 무료 | 움짤공방',
     description: 'JPG, PNG, WebP, GIF, SVG, AVIF를 브라우저에서 로컬로 압축하세요. 업로드 없이 이미지 용량을 줄입니다.',
     tip: '업로드 없이 WebAssembly로 로컬 압축',
     online: '온라인 이미지 압축',
@@ -8,8 +8,8 @@ export default {
     why: '이미지를 압축해야 하는 이유는?',
     whyCont1: 'Depending on the source of an image, the file could be quite large. A JPG from a professional DSLR camera, for example, could be dozens of megabytes. Depending on your needs, this could be too big. Compressing this image would be very useful.',
     whyCont2: 'Likewise, you might have large images on your phone. These images could be taking up a lot of hard drive space and preventing you from taking more photos. Compressing them could free up more internal storage, fixing this problem.',
-    vsTitle: 'ShotEasy Compress vs TinyPNG',
-    vsTitle1: 'ShotEasy Compress',
+    vsTitle: '움짤공방 Compress vs TinyPNG',
+    vsTitle1: '움짤공방 Compress',
     vsTitle2: 'TinyPNG Compress',
     vsCont1: 'Using native C++ libraries: libimagequant / libpng / zlib, compiled into WebAssembly, used on the web.',
     vsCont2: 'Compression at the memory level through native encoding.',

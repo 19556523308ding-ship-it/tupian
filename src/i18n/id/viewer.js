@@ -1,5 +1,5 @@
 export default {
-    title: 'Buka Word, Excel & PPT Online - Office Viewer Gratis | ShotEasy',
+    title: 'Buka Word, Excel & PPT Online - Office Viewer Gratis | Bengkel GIF',
     description: 'Buka DOCX, XLSX, PPTX, CSV, PDF, ZIP, dan RAR online di browser. Tanpa instalasi dan tanpa wajib upload file pribadi.',
     keywords: 'buka docx online, office viewer, buka pptx online, excel viewer online, xlsx online, pdf viewer, zip extractor, rar extractor',
     h1: 'Buka Word, Excel & PPT Online - Office Viewer Gratis dan Aman',
@@ -9,7 +9,7 @@ export default {
         { title: 'View Excel Spreadsheets', desc: 'Preview XLSX workbooks, sheets, rows, columns, charts, and cell formatting.', icon: 'Table2' },
         { title: 'View PowerPoint Presentations', desc: 'Open PPTX slides online and move through decks without installing Office.', icon: 'Presentation' },
         { title: 'View CSV Files', desc: 'Inspect CSV data in a clean table preview for quick spreadsheet checks.', icon: 'Rows3' },
-        { title: 'View PDF Files', desc: 'Render PDF pages locally with the same PDF library already used by ShotEasy.', icon: 'File' },
+        { title: 'View PDF Files', desc: 'Render PDF pages locally with the same PDF library already used by Bengkel GIF.', icon: 'File' },
         { title: 'View ZIP & RAR Archives', desc: 'Browse archive folders, preview supported files, and download extracted items.', icon: 'Archive' }
     ],
     tool: {
@@ -51,7 +51,7 @@ export default {
     supportCont1: 'Preview mendukung DOCX, XLSX, PPTX, CSV, PDF, gambar, teks, ZIP, dan RAR.',
     supportCont2: 'ZIP dan RAR dapat dibuka sebagai tree arsip untuk preview atau ekstraksi.',
     seoTitle: 'Office viewer online gratis untuk DOCX, XLSX, PPTX, PDF, CSV, ZIP dan RAR',
-    seoIntro: 'ShotEasy Viewer dibuat untuk pencarian seperti buka docx online, office viewer, pptx open, zip extractor online, dan rar extractor online.',
+    seoIntro: 'Bengkel GIF Viewer dibuat untuk pencarian seperti buka docx online, office viewer, pptx open, zip extractor online, dan rar extractor online.',
     featureSections: [
         {
             title: 'Buka DOCX online',

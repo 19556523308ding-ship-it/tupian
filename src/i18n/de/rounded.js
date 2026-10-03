@@ -1,5 +1,5 @@
 export default {
-    title: 'Foto-Ecken online abrunden und PNG exportieren | ShotEasy',
+    title: 'Foto-Ecken online abrunden und PNG exportieren | Gif-Werkstatt',
     description: 'Runden Sie Foto-Ecken online ab und exportieren Sie PNG-Dateien lokal im Browser, ohne Upload.',
     tip: 'Kein Upload, Bearbeitung im Browser',
     online: 'Foto online abrunden',

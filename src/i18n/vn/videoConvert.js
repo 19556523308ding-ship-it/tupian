@@ -2,7 +2,7 @@ import en from '../en/videoConvert';
 
 export default {
     ...en,
-    title: 'Tạo GIF, Video to GIF và MP4 to GIF | ShotEasy',
+    title: 'Tạo GIF, Video to GIF và MP4 to GIF | Xưởng GIF',
     description: 'Công cụ tạo GIF miễn phí và chuyển video sang GIF. Chuyển MP4 sang GIF, nén video, đổi tốc độ, trích xuất âm thanh, cắt khung và chạy FFmpeg trong trình duyệt.',
     keywords: 'gif maker, tạo gif, video to gif, video sang gif, mp4 to gif, mp4 sang gif, chuyển đổi video, ffmpeg wasm, nén video, cắt video, trích xuất âm thanh từ video',
     h1: 'Công cụ tạo GIF và chuyển video sang GIF',
@@ -17,7 +17,7 @@ export default {
     privacyCont1: 'Tệp chỉ được ghi vào hệ thống tệp ảo FFmpeg trong trình duyệt khi xử lý.',
     privacyCont2: 'Video lớn có thể mất thời gian vì mọi xử lý diễn ra trên máy của bạn thay vì máy chủ từ xa.',
     seoTitle: 'Công cụ tạo GIF và chuyển đổi video miễn phí trong trình duyệt',
-    seoIntro: 'ShotEasy Video Convert là công cụ gif maker, video to GIF và MP4 to GIF ưu tiên xử lý cục bộ, chạy bằng ffmpeg.wasm. Công cụ hỗ trợ các quy trình giống ffmpeg-webCLI và giữ tệp trong trình duyệt.',
+    seoIntro: 'Xưởng GIF Video Convert là công cụ gif maker, video to GIF và MP4 to GIF ưu tiên xử lý cục bộ, chạy bằng ffmpeg.wasm. Công cụ hỗ trợ các quy trình giống ffmpeg-webCLI và giữ tệp trong trình duyệt.',
     featureSections: [
         {
             title: 'Tạo GIF từ MP4, MOV, WebM và các video khác',
@@ -52,7 +52,7 @@ export default {
         },
         {
             question: 'Công cụ tạo GIF này có riêng tư không?',
-            answer: 'Có. Tệp được xử lý cục bộ trong trình duyệt bằng ffmpeg.wasm. ShotEasy không tải video của bạn lên máy chủ chuyển đổi.'
+            answer: 'Có. Tệp được xử lý cục bộ trong trình duyệt bằng ffmpeg.wasm. Xưởng GIF không tải video của bạn lên máy chủ chuyển đổi.'
         },
         {
             question: 'Có thể dùng như công cụ chuyển đổi video thông thường không?',

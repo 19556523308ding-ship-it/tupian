@@ -1,5 +1,5 @@
 export default {
-    title: 'Screenshot online verschönern | ShotEasy',
+    title: 'Screenshot online verschönern | Gif-Werkstatt',
     description: 'Gestalten Sie Screenshots mit Hintergründen, Geräte-Rahmen, Schatten und Layouts für Social Media, Tutorials und Produktseiten.',
     not: 'Kein Upload, Bearbeitung im Browser',
     new: 'The new version, developed by LeaferJs, use it now',

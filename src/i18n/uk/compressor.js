@@ -1,5 +1,5 @@
 export default {
-    title: 'Стиснути зображення онлайн - JPG, PNG, WebP локально | ShotEasy',
+    title: 'Стиснути зображення онлайн - JPG, PNG, WebP локально | Майстерня GIF',
     description: 'Безкоштовний компресор зображень онлайн для JPG, PNG, WebP, GIF, SVG та AVIF. Стиснення виконується локально в браузері через WebAssembly, без завантаження на сервер.',
     keywords: 'стиснути зображення онлайн, компресор зображень, стиснути JPG, стиснути PNG, стиснути WebP, оптимізація зображень онлайн, image compressor Україна',
     tip: 'Без завантаження на сервер, стиснення в браузері через WebAssembly',
@@ -9,8 +9,8 @@ export default {
     why: 'Навіщо стискати зображення?',
     whyCont1: 'Великі фото можуть займати багато місця, повільно завантажуватися на сайт або бути незручними для надсилання в месенджерах.',
     whyCont2: 'Стиснення допомагає швидше публікувати зображення, економити місце і готувати файли для сайтів, документів та соцмереж.',
-    vsTitle: 'ShotEasy Compress vs TinyPNG Compress',
-    vsTitle1: 'ShotEasy Compress',
+    vsTitle: 'Майстерня GIF Compress vs TinyPNG Compress',
+    vsTitle1: 'Майстерня GIF Compress',
     vsTitle2: 'TinyPNG Compress',
     vsCont1: 'Використовує нативні бібліотеки C++ libimagequant, libpng і zlib, скомпільовані у WebAssembly.',
     vsCont2: 'Стиснення відбувається на рівні памʼяті через локальне кодування.',

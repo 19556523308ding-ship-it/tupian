@@ -2,7 +2,7 @@ import en from '../en/videoConvert';
 
 export default {
     ...en,
-    title: 'Creador de GIF, Video a GIF y MP4 a GIF | ShotEasy',
+    title: 'Creador de GIF, Video a GIF y MP4 a GIF | Taller de GIF',
     description: 'Creador de GIF gratis y convertidor de video a GIF. Convierte MP4 a GIF, comprime video, cambia velocidad, extrae audio, recorta y usa FFmpeg en tu navegador.',
     keywords: 'gif maker, creador de gif, video to gif, video a gif, mp4 to gif, mp4 a gif, convertidor de video, ffmpeg wasm, comprimir video, recortar video, extraer audio de video',
     h1: 'Creador de GIF y convertidor de video a GIF',
@@ -17,7 +17,7 @@ export default {
     privacyCont1: 'Los archivos solo se escriben en el sistema de archivos virtual de FFmpeg dentro del navegador durante la conversión.',
     privacyCont2: 'Los videos grandes pueden tardar más porque todo el trabajo se realiza en tu ordenador, no en un servidor remoto.',
     seoTitle: 'Creador de GIF y convertidor de video gratis en el navegador',
-    seoIntro: 'ShotEasy Video Convert es un creador de GIF local, un convertidor de video a GIF y una herramienta MP4 a GIF basada en ffmpeg.wasm. Cubre flujos comunes inspirados en ffmpeg-webCLI y mantiene los archivos dentro del navegador.',
+    seoIntro: 'Taller de GIF Video Convert es un creador de GIF local, un convertidor de video a GIF y una herramienta MP4 a GIF basada en ffmpeg.wasm. Cubre flujos comunes inspirados en ffmpeg-webCLI y mantiene los archivos dentro del navegador.',
     featureSections: [
         {
             title: 'Crea GIF desde MP4, MOV, WebM y otros videos',
@@ -52,7 +52,7 @@ export default {
         },
         {
             question: 'Este creador de GIF es privado?',
-            answer: 'Sí. El archivo se procesa localmente en tu navegador con ffmpeg.wasm. ShotEasy no sube tu video a un servidor de conversión.'
+            answer: 'Sí. El archivo se procesa localmente en tu navegador con ffmpeg.wasm. Taller de GIF no sube tu video a un servidor de conversión.'
         },
         {
             question: 'También sirve como convertidor de video general?',

@@ -8,7 +8,7 @@ const LOCALE_COPY = {
             'Many online tools ask you to upload private files before you can preview the result.',
             'Format limits, watermarks, queues, and sign-up walls make quick edits feel heavier than they should.'
         ],
-        solutionTitle: 'How ShotEasy solves it',
+        solutionTitle: 'How Gif Workshop solves it',
         solutions: [
             '{tool} focuses on the exact task on this page, so the workflow stays short and easy to repeat.',
             'Where possible, processing runs in the browser so files stay on your device and previews appear faster.',
@@ -21,7 +21,7 @@ const LOCALE_COPY = {
             'Handle one-off edits on shared or low-spec computers without installing specialist software.'
         ],
         trustTitle: 'Privacy and reliability',
-        trust: 'ShotEasy keeps each tool focused and transparent: upload, adjust, preview, export. Local-first tools reduce unnecessary file transfers, while server-backed features explain what is being processed.'
+        trust: 'Gif Workshop keeps each tool focused and transparent: upload, adjust, preview, export. Local-first tools reduce unnecessary file transfers, while server-backed features explain what is being processed.'
     },
     'en-in': {
         title: 'Why this tool is useful for daily work',
@@ -32,7 +32,7 @@ const LOCALE_COPY = {
             'Uploading personal documents, product images, or client files to unknown services can be uncomfortable.',
             'Large files, watermarks, and login screens slow down simple work that should take less than a minute.'
         ],
-        solutionTitle: 'How ShotEasy helps',
+        solutionTitle: 'How Gif Workshop helps',
         solutions: [
             '{tool} keeps the main action visible, so you can finish the task quickly and move on.',
             'Local-first processing helps keep sensitive files on your device whenever the browser can handle the job.',
@@ -56,7 +56,7 @@ const LOCALE_COPY = {
             'Enviar arquivos pessoais, imagens de produto ou materiais de cliente para serviços desconhecidos gera risco e insegurança.',
             'Limites de formato, marca d’água, fila de processamento e cadastro deixam tarefas simples mais lentas.'
         ],
-        solutionTitle: 'Como o ShotEasy resolve',
+        solutionTitle: 'Como a Oficina de GIF resolve',
         solutions: [
             '{tool} mantém a ação principal em foco para você concluir o trabalho em poucos passos.',
             'Sempre que possível, o processamento acontece no próprio navegador, reduzindo uploads desnecessários.',
@@ -69,7 +69,7 @@ const LOCALE_COPY = {
             'Fazer uma edição pontual em computadores compartilhados sem depender de software instalado.'
         ],
         trustTitle: 'Privacidade e confiança',
-        trust: 'O ShotEasy privilegia fluxos diretos: carregar, ajustar, visualizar e baixar. Ferramentas locais reduzem transferência de arquivos, e recursos com processamento adicional deixam claro o que está acontecendo.'
+        trust: 'A Oficina de GIF privilegia fluxos diretos: carregar, ajustar, visualizar e baixar. Ferramentas locais reduzem transferência de arquivos, e recursos com processamento adicional deixam claro o que está acontecendo.'
     },
     de: {
         title: 'Warum dieses Tool im Alltag hilft',
@@ -80,7 +80,7 @@ const LOCALE_COPY = {
             'Viele Online-Dienste verlangen Uploads, bevor du prüfen kannst, ob das Ergebnis passt.',
             'Formatgrenzen, Wasserzeichen, Warteschlangen und Logins machen einfache Arbeiten unnötig schwer.'
         ],
-        solutionTitle: 'So hilft ShotEasy',
+        solutionTitle: 'So hilft die Gif-Werkstatt',
         solutions: [
             '{tool} konzentriert sich auf genau diese Aufgabe und hält den Ablauf kurz.',
             'Wo möglich läuft die Verarbeitung lokal im Browser, damit Dateien auf deinem Gerät bleiben.',
@@ -93,7 +93,7 @@ const LOCALE_COPY = {
             'Einmalige Bearbeitungen ohne Installation auf Arbeits-, Schul- oder geteilten Rechnern erledigen.'
         ],
         trustTitle: 'Datenschutz und Verlässlichkeit',
-        trust: 'ShotEasy setzt auf klare Abläufe: hochladen, anpassen, prüfen, exportieren. Lokale Verarbeitung reduziert unnötige Dateiübertragungen und macht den Prozess besser kontrollierbar.'
+        trust: 'Die Gif-Werkstatt setzt auf klare Abläufe: hochladen, anpassen, prüfen, exportieren. Lokale Verarbeitung reduziert unnötige Dateiübertragungen und macht den Prozess besser kontrollierbar.'
     },
     hi: {
         title: 'यह टूल रोज़मर्रा के काम में क्यों मदद करता है',
@@ -104,7 +104,7 @@ const LOCALE_COPY = {
             'निजी दस्तावेज़, फोटो या क्लाइंट फाइलें अनजान सर्विस पर अपलोड करना हमेशा सुरक्षित महसूस नहीं होता।',
             'फॉर्मेट लिमिट, वॉटरमार्क, कतार और लॉगिन जैसी बाधाएं तेज काम को धीमा बना देती हैं।'
         ],
-        solutionTitle: 'ShotEasy कैसे मदद करता है',
+        solutionTitle: 'GIF वर्कशॉप कैसे मदद करता है',
         solutions: [
             '{tool} मुख्य काम को सामने रखता है, इसलिए प्रक्रिया छोटी और दोहराने में आसान रहती है।',
             'जहां संभव हो, प्रोसेसिंग ब्राउज़र में होती है ताकि फाइल आपके डिवाइस पर रहे।',
@@ -117,7 +117,7 @@ const LOCALE_COPY = {
             'साझा या कम क्षमता वाले कंप्यूटर पर बिना सॉफ्टवेयर इंस्टॉल किए त्वरित एडिट करने के लिए।'
         ],
         trustTitle: 'गोपनीयता और नियंत्रण',
-        trust: 'ShotEasy का लक्ष्य साफ workflow देना है: फाइल चुनें, सेटिंग बदलें, preview देखें और download करें। लोकल-first टूल अनावश्यक upload कम करते हैं।'
+        trust: '动图坊 का लक्ष्य साफ workflow देना है: फाइल चुनें, सेटिंग बदलें, preview देखें और download करें। लोकल-first टूल अनावश्यक upload कम करते हैं।'
     },
     ko: {
         title: '이 도구가 일상 작업에 유용한 이유',
@@ -128,7 +128,7 @@ const LOCALE_COPY = {
             '개인 파일이나 고객 자료를 모르는 서비스에 업로드해야 하는 도구는 부담스럽습니다.',
             '형식 제한, 워터마크, 대기열, 로그인 요구가 빠른 작업을 느리게 만듭니다.'
         ],
-        solutionTitle: 'ShotEasy의 해결 방식',
+        solutionTitle: '动图坊의 해결 방식',
         solutions: [
             '{tool}은 이 페이지의 핵심 작업에 집중해 반복 작업을 짧고 명확하게 만듭니다.',
             '가능한 경우 브라우저 안에서 처리해 파일 전송을 줄이고 결과를 빠르게 확인할 수 있습니다.',
@@ -141,7 +141,7 @@ const LOCALE_COPY = {
             '공용 컴퓨터나 낮은 사양 환경에서 별도 설치 없이 빠르게 편집할 때.'
         ],
         trustTitle: '개인정보와 안정성',
-        trust: 'ShotEasy는 업로드, 조정, 미리보기, 다운로드 흐름을 명확하게 유지합니다. 로컬 우선 처리로 불필요한 파일 전송을 줄입니다.'
+        trust: '动图坊는 업로드, 조정, 미리보기, 다운로드 흐름을 명확하게 유지합니다. 로컬 우선 처리로 불필요한 파일 전송을 줄입니다.'
     },
     id: {
         title: 'Mengapa alat ini membantu pekerjaan harian',
@@ -152,7 +152,7 @@ const LOCALE_COPY = {
             'Mengunggah dokumen pribadi, gambar produk, atau file klien ke layanan yang tidak dikenal terasa berisiko.',
             'Batas format, watermark, antrean, dan kewajiban login membuat pekerjaan sederhana jadi lambat.'
         ],
-        solutionTitle: 'Cara ShotEasy membantu',
+        solutionTitle: 'Cara 动图坊 membantu',
         solutions: [
             '{tool} fokus pada satu pekerjaan utama sehingga alurnya pendek dan mudah diulang.',
             'Jika memungkinkan, proses berjalan di browser agar file tetap berada di perangkatmu.',
@@ -165,7 +165,7 @@ const LOCALE_COPY = {
             'Melakukan edit cepat di komputer bersama tanpa memasang software khusus.'
         ],
         trustTitle: 'Privasi dan kendali',
-        trust: 'ShotEasy menjaga alur tetap jelas: pilih file, atur, pratinjau, lalu unduh. Pemrosesan lokal mengurangi unggahan yang tidak perlu.'
+        trust: '动图坊 menjaga alur tetap jelas: pilih file, atur, pratinjau, lalu unduh. Pemrosesan lokal mengurangi unggahan yang tidak perlu.'
     },
     es: {
         title: 'Por qué esta herramienta ayuda en el trabajo diario',
@@ -176,7 +176,7 @@ const LOCALE_COPY = {
             'Subir archivos privados o de clientes a servicios desconocidos puede ser incómodo.',
             'Los límites de formato, marcas de agua, colas y registros hacen lentas las tareas simples.'
         ],
-        solutionTitle: 'Cómo ayuda ShotEasy',
+        solutionTitle: 'Cómo ayuda 动图坊',
         solutions: [
             '{tool} se centra en la tarea principal para mantener el flujo corto.',
             'Siempre que es posible, el procesamiento se ejecuta en el navegador y reduce cargas innecesarias.',
@@ -189,7 +189,7 @@ const LOCALE_COPY = {
             'Resolver ediciones puntuales sin instalar software especializado.'
         ],
         trustTitle: 'Privacidad y control',
-        trust: 'ShotEasy mantiene un flujo simple: cargar, ajustar, previsualizar y descargar. Las herramientas locales reducen transferencias innecesarias.'
+        trust: '动图坊 mantiene un flujo simple: cargar, ajustar, previsualizar y descargar. Las herramientas locales reducen transferencias innecesarias.'
     },
     fr: {
         title: 'Pourquoi cet outil aide au quotidien',
@@ -200,7 +200,7 @@ const LOCALE_COPY = {
             'Envoyer des fichiers privés ou client à un service inconnu peut poser problème.',
             'Les limites de format, filigranes, files d’attente et inscriptions ralentissent les tâches simples.'
         ],
-        solutionTitle: 'Comment ShotEasy aide',
+        solutionTitle: 'Comment 动图坊 aide',
         solutions: [
             '{tool} reste concentré sur la tâche principale pour garder un flux court.',
             'Quand c’est possible, le traitement se fait dans le navigateur et évite des uploads inutiles.',
@@ -213,7 +213,7 @@ const LOCALE_COPY = {
             'Faire une modification ponctuelle sans installer de logiciel spécialisé.'
         ],
         trustTitle: 'Confidentialité et contrôle',
-        trust: 'ShotEasy privilégie un flux clair : charger, ajuster, prévisualiser, télécharger. Les outils locaux limitent les transferts de fichiers.'
+        trust: '动图坊 privilégie un flux clair : charger, ajuster, prévisualiser, télécharger. Les outils locaux limitent les transferts de fichiers.'
     },
     ja: {
         title: 'このツールが日常作業に役立つ理由',
@@ -224,7 +224,7 @@ const LOCALE_COPY = {
             '個人ファイルや顧客データを不明なサービスへアップロードするのは不安です。',
             '形式制限、透かし、待ち時間、ログイン要求が簡単な作業を面倒にします。'
         ],
-        solutionTitle: 'ShotEasy の解決方法',
+        solutionTitle: '动图坊 の解決方法',
         solutions: [
             '{tool} はこのページの目的に集中し、短い手順で完了できます。',
             '可能な処理はブラウザ内で行い、不要なファイル転送を減らします。',
@@ -237,7 +237,7 @@ const LOCALE_COPY = {
             '共有PCや低スペック環境で、専用ソフトなしに一度だけ編集する。'
         ],
         trustTitle: 'プライバシーと安心感',
-        trust: 'ShotEasy は、選択、調整、プレビュー、ダウンロードの流れを明確にします。ローカル優先の処理で不要なアップロードを減らします。'
+        trust: '动图坊 は、選択、調整、プレビュー、ダウンロードの流れを明確にします。ローカル優先の処理で不要なアップロードを減らします。'
     },
     vn: {
         title: 'Vì sao công cụ này hữu ích cho công việc hằng ngày',
@@ -248,7 +248,7 @@ const LOCALE_COPY = {
             'Tải tài liệu cá nhân, ảnh sản phẩm hoặc file khách hàng lên dịch vụ lạ có thể gây lo ngại.',
             'Giới hạn định dạng, watermark, hàng đợi và yêu cầu đăng nhập làm việc đơn giản trở nên chậm.'
         ],
-        solutionTitle: 'ShotEasy hỗ trợ thế nào',
+        solutionTitle: 'Xưởng GIF hỗ trợ thế nào',
         solutions: [
             '{tool} tập trung vào tác vụ chính nên quy trình ngắn và dễ lặp lại.',
             'Khi có thể, xử lý diễn ra trong trình duyệt để giảm tải file không cần thiết.',
@@ -261,7 +261,7 @@ const LOCALE_COPY = {
             'Chỉnh sửa nhanh trên máy dùng chung mà không cần cài phần mềm chuyên dụng.'
         ],
         trustTitle: 'Quyền riêng tư và kiểm soát',
-        trust: 'ShotEasy giữ quy trình rõ ràng: chọn file, chỉnh, xem trước và tải xuống. Xử lý cục bộ giúp giảm việc tải file lên không cần thiết.'
+        trust: 'Xưởng GIF giữ quy trình rõ ràng: chọn file, chỉnh, xem trước và tải xuống. Xử lý cục bộ giúp giảm việc tải file lên không cần thiết.'
     },
     uk: {
         title: 'Чому цей інструмент допомагає у щоденній роботі',
@@ -272,7 +272,7 @@ const LOCALE_COPY = {
             'Завантажувати приватні або клієнтські файли на невідомі сервіси не завжди безпечно.',
             'Обмеження форматів, водяні знаки, черги та реєстрації ускладнюють прості задачі.'
         ],
-        solutionTitle: 'Як допомагає ShotEasy',
+        solutionTitle: 'Як допомагає Майстерня GIF',
         solutions: [
             '{tool} фокусується на одній задачі, тому процес короткий і зрозумілий.',
             'Де можливо, обробка відбувається у браузері, щоб зменшити зайві завантаження файлів.',
@@ -285,7 +285,7 @@ const LOCALE_COPY = {
             'Швидко відредагувати файл на спільному комп’ютері без встановлення спеціального ПЗ.'
         ],
         trustTitle: 'Приватність і контроль',
-        trust: 'ShotEasy залишає процес прозорим: вибрати файл, налаштувати, переглянути, завантажити. Локальна обробка зменшує непотрібні передачі файлів.'
+        trust: 'Майстерня GIF залишає процес прозорим: вибрати файл, налаштувати, переглянути, завантажити. Локальна обробка зменшує непотрібні передачі файлів.'
     },
     ru: {
         title: 'Почему этот инструмент помогает в повседневной работе',
@@ -296,7 +296,7 @@ const LOCALE_COPY = {
             'Загружать личные или клиентские файлы в неизвестные сервисы бывает небезопасно.',
             'Ограничения форматов, водяные знаки, очереди и регистрация замедляют простые задачи.'
         ],
-        solutionTitle: 'Как помогает ShotEasy',
+        solutionTitle: 'Как помогает Мастерская GIF',
         solutions: [
             '{tool} фокусируется на одной задаче, поэтому процесс остаётся коротким.',
             'Где возможно, обработка выполняется в браузере и уменьшает лишние загрузки файлов.',
@@ -309,7 +309,7 @@ const LOCALE_COPY = {
             'Быстро выполнить разовую правку на общем компьютере без установки специального ПО.'
         ],
         trustTitle: 'Приватность и контроль',
-        trust: 'ShotEasy делает процесс понятным: выбрать файл, настроить, посмотреть результат и скачать. Локальная обработка снижает ненужную передачу файлов.'
+        trust: 'Мастерская GIF делает процесс понятным: выбрать файл, настроить, посмотреть результат и скачать. Локальная обработка снижает ненужную передачу файлов.'
     },
     'zh-CN': {
         title: '为什么这个工具适合日常工作',
@@ -320,7 +320,7 @@ const LOCALE_COPY = {
             '把私人文件、客户资料或产品图上传到陌生服务，会带来隐私和合规顾虑。',
             '格式限制、水印、排队、登录注册，会让本来几十秒的任务变得很麻烦。'
         ],
-        solutionTitle: 'ShotEasy 的解决方式',
+        solutionTitle: '动图坊 的解决方式',
         solutions: [
             '{tool} 聚焦当前页面的单一任务，上传、调整、预览、导出路径更短。',
             '能在浏览器本地完成的处理尽量本地完成，减少文件离开设备的机会。',
@@ -333,7 +333,7 @@ const LOCALE_COPY = {
             '在共享电脑或低配置电脑上完成一次性编辑，不依赖安装专业软件。'
         ],
         trustTitle: '隐私与稳定性',
-        trust: 'ShotEasy 让流程保持可预期：选择文件、调整参数、预览结果、下载导出。本地优先的工具可以减少不必要的文件传输。'
+        trust: '动图坊 让流程保持可预期：选择文件、调整参数、预览结果、下载导出。本地优先的工具可以减少不必要的文件传输。'
     }
 };
 
@@ -351,7 +351,7 @@ const TOOL_FEATURES = {
 
 export const getToolSeoContent = (locale, tool, t = {}) => {
     const copy = LOCALE_COPY[locale] || LOCALE_COPY.en;
-    const toolName = t.h1 || t.title || t.seoTitle || 'ShotEasy tool';
+    const toolName = t.h1 || t.title || t.seoTitle || '动图坊 tool';
     const replaceTool = (value) => value.replaceAll('{tool}', toolName);
     return {
         title: copy.title,
